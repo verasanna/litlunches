@@ -96,4 +96,4 @@ Formal readability and experienced difficulty often align—but not always.
 
 ## Further reading
 
-- Read [about Readability:](https://en.wikipedia.org/wiki/Readability) in Wikipedia.
+- Read [about Readability](https://en.wikipedia.org/wiki/Readability) in Wikipedia.

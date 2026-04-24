@@ -78,4 +78,4 @@ They are not simplified texts, but curated materials intended to balance challen
 
 - Read [about comprehensible input](https://www.sdkrashen.com/) on Stephen Krashen's website.
 
-- Check [video content library](https://www.dreaming.com/spanish) on Dreaming Spanish website.
+- Check [comprehensible video](https://www.dreaming.com/spanish) on Dreaming Spanish website.

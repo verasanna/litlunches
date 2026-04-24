@@ -67,4 +67,4 @@ The classification is approximate and prioritizes reading experience over strict
 
 ## Further reading
 
-- Check [our easy Spanish lists](/litlunches/spanish/spain/)
+- Check our [easy Spanish book list](/litlunches/spanish/spain/)
