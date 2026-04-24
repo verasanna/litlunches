@@ -137,3 +137,18 @@ Rosario Ferré was a Puerto Rican writer, essayist, and one of the most importan
 
 **Quotes:**  
 > Se presentaba siempre con el cuello almidonado, los zapatos brillantes y el ostentoso alfiler de corbata oriental del que no tiene donde caerse muerto. Luego de examinar a la tía se sentaba en la sala recostando su silueta de papel dentro de un marco ovalado, a la vez que le entregaba a la menor el mismo ramo de siemprevivas moradas. Ella le ofrecía galletitas de jengibre y cogía el ramo quisquillosamente con la punta de los dedos como quien coge el estómago de un erizo vuelto al revés. Decidió casarse con él porque le intrigaba su perfil dormido, y porque ya tenía ganas de saber cómo era por dentro la carne de delfín.
+
+## 10. “Los boys” — Junot Díaz
+
+> **Goal:** manage concise narrative with colloquial Spanglish register  
+> **Formal readability:** ~76 (moderate)  
+> **Experienced difficulty:** low–moderate  
+
+**Description:**  
+A short story focused on Dominican-American adolescents navigating friendship, masculinity, and social expectations within a migration context. The narrative is linear and tightly structured, concentrating on a limited set of scenes and interactions. Compared to Díaz’s novel-length work, the language is more contained, with controlled Spanglish usage that remains largely inferable from context rather than structurally disruptive.
+
+**Author:**  
+Junot Díaz constructs here a compact narrative voice that emphasizes immediacy and everyday speech while maintaining thematic links to diaspora and identity.
+
+**Quotes:**  
+> Unas dos horas más tarde, las mujeres sacaron la cena y, como siempre, sólo los niños les dimos las gracias. Debía de ser una tradición dominicana o algo parecido. Hicieron todos los platos que a mí me gustaban —chicharrones, pollo frito, tostones, sancocho, arroz, queso frito, yuca, aguacate, ensalada de patata, un trozo de pernil del tamaño de un meteorito e incluso una ensalada mixta que no me habría importado perderme—, pero en cuanto me junté con el resto de los niños alrededor de la mesa papi dijo oh, no, tú no. Y me quitó de las manos el plato de papel con muy poca amabilidad.
