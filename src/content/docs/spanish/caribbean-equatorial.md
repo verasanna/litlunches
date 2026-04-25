@@ -3,11 +3,11 @@ title: Caribbean Spanish & Equatorial Guinea
 description: Easy Spanish books for learners (Cuba, Dominican Republic, Puerto Rico, Equatorial Guinea) with regional vocabulary and stylistic variation
 ---
 
-Caribbean Spanish and Equatoguinean Spanish display distinct lexical choices, narrative tone, and stylistic variation that are often absent from generalized learning materials.
+Caribbean Spanish and Equatoguinean Spanish use different vocabulary, tone, and writing styles that are often missing from standard learning materials.
 
-Caribbean Spanish literature is frequently characterized by a strong oral narrative tradition reflected in dialogue, idiomatic density, and flexible register, while writing from Equatorial Guinea introduces additional historical and cultural layers within the Spanish language.
+Caribbean Spanish writing is usually closer to spoken language, with lots of dialogue, idioms, and shifts in register. Literature from Equatorial Guinea also adds a different historical and cultural layer within Spanish.
 
-This list focuses on fiction written in Caribbean Spanish and Equatoguinean Spanish, prioritizing works that are both linguistically accessible and representative of their respective traditions. Readability is evaluated using structured criteria combined with actual reading experience rather than intuition alone.
+This list focuses on fiction written in Caribbean and Equatoguinean Spanish, choosing books that are both relatively accessible and representative of their literary traditions. Readability is based on structured criteria and actual reading experience, not just intuition.
 
 ## 1. Trilogía sucia de La Habana — Pedro Juan Gutiérrez
 

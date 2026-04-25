@@ -3,8 +3,9 @@ title: Andean Spanish & Chile
 description: Easy Spanish books for learners (Peru, Bolivia, Ecuador, Chile) with regional vocabulary and Chilean usage
 ---
 
-Andean Spanish differs in vocabulary, rhythm, and discourse structure across Peru, Bolivia, and Ecuador, while Chilean Spanish adds a distinct colloquial register that is often reduced or absent in standard learning materials.
-This list focuses on fiction written in Andean Spanish and Chilean Spanish, prioritizing texts that are both accessible in language and representative of local literary traditions. Readability is assessed through measurable criteria combined with actual reading experience rather than intuition alone.
+Andean Spanish varies quite a bit in vocabulary, rhythm, and sentence structure across Peru, Bolivia, and Ecuador. Chilean Spanish also has a strong colloquial style that is often missing from standard learning materials or simplified textbooks.
+
+This list brings together fiction written in Andean and Chilean Spanish, focusing on books that are both relatively easy to read and grounded in local literary traditions. Readability is based on a mix of measurable factors and real reading experience, not just intuition.
 
 ## 1. Tres historias sublevantes — Julio Ramón Ribeyro
 
