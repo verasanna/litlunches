@@ -16,10 +16,10 @@ This list tries to avoid that trade-off by focusing on fiction that is both read
 > **Experienced difficulty:** very low  
 
 **Description:**
-A diary-style narrative structured around everyday rural life and routine observations. The text follows an episodic progression with short, direct sentences and frequent repetition of common lexical patterns. This produces a stable reading flow with minimal syntactic complexity and limited cognitive load.
+A diary-style narrative structured around everyday rural life and routine observations. The text follows an episodic progression with short, direct sentences and frequent repetition of common lexical patterns.
 
 **Author:**
-Miguel Delibes was a central figure in 20th-century Spanish literature and is strongly associated with social realism. His work consistently portrays rural environments, nature, and working-class life through precise and restrained prose. He avoids stylistic experimentation in favor of clarity, narrative control, and lexical accuracy.
+Miguel Delibes was a central figure in 20th-century Spanish literature. His work consistently portrays rural environments, nature, and working-class life through precise and restrained prose.
 
 **Quotes:**
 > Melecio dijo que le gustaba la carne de caballo, y el Pavo que no podía tragar la liebre. Yo le dije que no la habría comido bien preparada y que un día le subiría a casa a comer una liebre como Dios manda. El Pavo aceptó. Dijo Melecio que la madre, si quisiera, podría ganar cuartos como cocinera en un hotel de postín.
@@ -54,7 +54,7 @@ Carmen Martín Gaite was a major postwar Spanish writer and essayist. Her fictio
 A set of short stories set in rural environments, often centered on childhood perception and emotional conflict. Each narrative is compact and structurally clear.
 
 **Author:**
-Ana María Matute, a member of the Royal Spanish Academy, is one of the most respected Spanish writers of the 20th century. Her work often addresses childhood, memory, and moral ambiguity, especially in the context of post–Civil War Spain.
+Ana María Matute, a member of the Royal Spanish Academy, was one of the most respected Spanish writers of the 20th century. Her work often addresses childhood, memory, and moral ambiguity, especially in the context of post–Civil War Spain.
 
 **Quotes:**
 > En aquellas tierras, tan lejanas del mar, el pescado era algo maravilloso, y ellos sabían que se gustaba celebrar la Nochebuena cenando besugo asado.  
@@ -189,4 +189,4 @@ Mikel Santiago is a contemporary Spanish thriller writer with an international r
 
 ## Further reading
 
-- Read about [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/), a digital library with curated Spanish and Latin American literature and critical editions.
+- Read about [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/), a digital library with Spanish and Latin American literature and critical editions.

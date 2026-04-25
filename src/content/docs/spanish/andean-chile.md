@@ -181,4 +181,4 @@ Jeremías Gamboa is a contemporary Peruvian writer associated with a generation 
 
 ## Further reading
 
-- Read about [Biblioteca Nacional Digital de Chile](https://www.bibliotecanacionaldigital.gob.cl/), Chile’s national digital archive with digitized literary and historical materials.
+- Read about [Biblioteca Nacional Digital de Chile](https://www.bibliotecanacionaldigital.gob.cl/), Chile’s national digital archive with literary and historical materials.
