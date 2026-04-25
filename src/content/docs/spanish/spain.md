@@ -3,10 +3,9 @@ title: Spain
 description: Easy Spanish books
 ---
 
-Most lists of “easy Spanish books” rely on intuition or target beginners with children’s literature.
-As a result, learners often face a trade-off: books that are linguistically simple but uninteresting, or literary works that are difficult to process.
-This list focuses on fiction that is both readable and stylistically controlled, using measured readability alongside real reading experience.
-All books in this list are written in peninsular Spanish (Spain).
+Most “easy Spanish books” lists either rely on guesswork or stick to children’s literature. That usually leaves learners choosing between very simple texts that feel dull, or more interesting books that are still too hard to follow.
+
+This list tries to avoid that trade-off by focusing on fiction that is both readable and well written, balancing objective readability measures with actual reading experience. All books here are written in peninsular Spanish (Spain).
 
 ---
 
