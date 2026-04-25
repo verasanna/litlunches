@@ -1,11 +1,11 @@
 ---
 title: Comprehensible input
-description: Language learning through understanding messages that are mostly clear and meaningful.
+description: Language learning through Comprehensible Input.
 ---
 
 Comprehensible input is the idea that language is acquired by understanding messages that are mostly clear, even if not every word is known.
 
-The key point is meaning: you should be able to follow what is being communicated without needing to decode every element.
+The concept, developed by Stephen Krashen, emphasizes acquiring language through meaningful input rather than memorizing rules, so attention stays on meaning instead of the language itself.
 
 ---
 
@@ -13,25 +13,36 @@ The key point is meaning: you should be able to follow what is being communicate
 
 Input is considered “comprehensible” when:
 
-- you understand the overall message  
-- unknown words do not block comprehension  
-- context helps you infer meaning  
-- you can stay engaged without constant interruption  
+- the overall message is clear
+- unknown words do not block understanding  
+- context helps you guess the meaning
+- engagement can be maintained without constant interruption  
 
-This applies to different forms of exposure, such as reading, listening, or watching content.
+This applies to watching, listening, and reading.
+
+---
+
+## Key aspects of effective input
+
+For input to be effective over time, three elements matter:
+
+- **Comprehensible**: supported by context, visuals, gestures, and high-frequency language so meaning remains accessible
+- **Interesting**: the topic is relevant or appealing to the learner
+- **Compelling**: the presentation is engaging enough to sustain attention over time. 
+
+Interest helps initiate engagement; compelling input maintains it. Without that second layer, attention tends to drop even if the topic itself is relevant.
 
 ---
 
 ## Why it works
 
-Comprehensible input supports learning because:
+Comprehensible input supports acquisition because:
 
-- it exposes you to repeated patterns in context  
-- vocabulary and grammar are learned implicitly  
-- meaning helps anchor new language forms  
-- exposure accumulates over time without explicit memorization  
+- it provides repeated patterns in context
+- vocabulary and grammar are absorbed implicitly
+- exposure builds gradually without explicit memorization  
 
-It is a gradual process rather than a rule-based one.
+It is a cumulative process rather than a rule-based one.
 
 ---
 
@@ -39,12 +50,12 @@ It is a gradual process rather than a rule-based one.
 
 Comprehensible input can come from:
 
-- listening to speech or audio  
-- real-life conversation
-- watching films or series
+- watching video
+- listening to audio
+- real-life conversation (including cross-talking)
 - reading texts
 
-Each form offers different levels of support through context, visuals, or repetition.
+Each form offers different types of support through context, visuals, or repetition.
 
 ---
 
@@ -52,25 +63,19 @@ Each form offers different levels of support through context, visuals, or repeti
 
 Comprehensible input does not mean:
 
-- understanding every word  
-- avoiding all difficulty  
-- relying only on simplified material  
+- understanding every word
+- avoiding all difficulty
+- relying only on simplified material
 
-A message can still be useful even if parts are unclear, as long as the overall meaning is accessible.
-
-Difficulty is also not purely linguistic; cultural context and topic familiarity play a role.
+Partial understanding is sufficient as long as the overall message remains accessible. Difficulty is also influenced by topic familiarity and cultural context, not only by language.
 
 ---
 
 ## How it relates to this site
 
-The materials on this site aim to approximate comprehensible input by selecting texts that:
+The book lists on this site are curated to balance clarity, relevance, and engagement. They focus on materials that are easy enough to follow but still offer enough literary value to keep attention.
 
-- are generally accessible in structure  
-- remain coherent without heavy decoding effort  
-- gradually introduce linguistic complexity  
-
-They are not simplified texts, but curated materials intended to balance challenge and understanding.
+A topic can match a learner’s interests, but if the writing style or structure is flat, it becomes harder to stay engaged. In practice, engagement matters as much as difficulty, because without sustained attention there is less effective language exposure.
 
 ---
 
