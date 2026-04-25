@@ -156,3 +156,9 @@ Dante Liano is one of the most important contemporary Guatemalan writers, whose 
 
 **Quotes:**  
 > Pero dónde está escrito que mi agradecimiento tenga que durar toda la vida, le debo tanto y tanto le he pagado, ¿cuándo termina mi deuda con el viejo maldito? —⁠a levantarse todas las mañanas a las cinco, antes que los demás, y les preparaba de comer, arreglaba la mesa, colocaba los platos y las tazas, debajo de un mantel que antes también le había tocado planchar⁠—, las tardes calurosas en que me llegan los ronquidos de todos los que duermen la siesta y yo estoy sudando mientras plancho la ropa —⁠y luego les servía y sólo después de que todos habían desayunado, el señor, la señora y los cuatro hijos, entonces podía tomar él su desayuno, y en ese momento, en que obedecía las llamadas de cada uno⁠—, tráeme más pan, más café —⁠en ese momento los odiaba también a todos...
+
+---
+
+## Further reading
+
+- Read about [UNAM Repositorio Institucional](https://repositorio.unam.mx/), which provides full-text academic publications, theses, and literary research.

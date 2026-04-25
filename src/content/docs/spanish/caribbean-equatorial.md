@@ -152,3 +152,9 @@ Junot Díaz constructs here a compact narrative voice that emphasizes immediacy 
 
 **Quotes:**  
 > Unas dos horas más tarde, las mujeres sacaron la cena y, como siempre, sólo los niños les dimos las gracias. Debía de ser una tradición dominicana o algo parecido. Hicieron todos los platos que a mí me gustaban —chicharrones, pollo frito, tostones, sancocho, arroz, queso frito, yuca, aguacate, ensalada de patata, un trozo de pernil del tamaño de un meteorito e incluso una ensalada mixta que no me habría importado perderme—, pero en cuanto me junté con el resto de los niños alrededor de la mesa papi dijo oh, no, tú no. Y me quitó de las manos el plato de papel con muy poca amabilidad.
+
+---
+
+## Further reading
+
+- Read about [Biblioteca Nacional de Cuba José Martí](https://www.bnjm.cu/), Cuba’s national library, which provides catalogs, digital resources, and access to Cuban literary heritage.

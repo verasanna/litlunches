@@ -184,3 +184,9 @@ Pablo de Santis is an Argentine writer known for literary mysteries that combine
 
 **Quotes:**
 > Los traductores ya habían cenado. Tomaban café y se intercambiaban direcciones. Convencí al encargado del bar de que me sirvieran una sopa de verduras. Mientras preparaban la comida, subí a mi cuarto para dejar el montgomery. Llamé a Elena para decir que volvía, pero no estaba, o estaba durmiendo y dejé un mensaje breve en el contestador.
+
+---
+
+## Further reading
+
+- Read about [Portal Guaraní](https://www.portalguarani.com/), one of the most important Paraguayan cultural archives, with online access to literature, essays, poetry, biographies, and historical materials.

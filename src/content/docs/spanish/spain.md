@@ -185,3 +185,9 @@ Mikel Santiago is a contemporary Spanish thriller writer with an international r
 
 **Quotes:**
 > Mientras comíamos como si fuésemos diez en la mesa —revuelto de hongos, croquetas de chipirón en su tinta, cazuela de almejas, bacalao al pilpil con salsa de erizo de mar, solomillo con sal gorda y tarta de queso para rematar la faena—, hablamos de mi vida en Amsterdam. Ane solía viajar a la ciudad para visitar el Stedelijk Museum, además de algunas galerías potentes. Les hablé de mis andanzas como músico, camarero, profesor de español. Me salté los dos años como camello a domicilio. Preferí hablarles de mis tres meses cultivando tulipanes en Flevoland.
+
+---
+
+## Further reading
+
+- Read about [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/), a digital library with curated Spanish and Latin American literature and critical editions.

@@ -178,3 +178,9 @@ Andrés Caicedo demonstrates here the breadth of his short-form experimentation,
 
 **Quotes:**  
 > Bueno, de una. La gente no se reía. La gente estaba calladísima, ¿sería por pena? ¿Pena de qué, de ver borracho al Rey del Ají? ¿Pena por pobrecita Angelita, tan sabida y tan linda, pero bailando, la pobre, el vals con su papá en sus quince? Si mi papá después de agarrarme por la cintura me hubiera hecho dar vueltas y vueltas, no una sino muchas vueltas, ver las caras como en el cine cuando el cine da vueltas, o no ver a nadie, mirarlo sólo a mi papá radiante de felicidad, y a ver quién dice algo, quién dice tan ridícula Angelita, de dónde habrá sacado esto, dónde lo habrá visto, quién se va a atrever a decir nada si Angelita está dando vueltas, si no fue sino dar la primera vuelta y mi papá se dobló, plaf, me enterró la frente, la boca, la cumbamba, el nudo de la corbata aquí en mis senos, en mi barriguita, y allí fue donde más me tiró ese jugo que le venía saliendo de la boca. Después vino el sorbete de pedacitos de coco, de papaya, aceitunas, queso, lechuga molida.
+
+---
+
+## Further reading
+
+- Read about the [Biblioteca Virtual del Banco de la República (Colombia)](https://www.banrepcultural.org/biblioteca-virtual), a major cultural and academic digital library with literature, essays, and historical collections.

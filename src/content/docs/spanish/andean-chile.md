@@ -175,3 +175,9 @@ Jeremías Gamboa is a contemporary Peruvian writer associated with a generation 
 
 **Quotes:**
 > Nate le dice que siguiendo por la avenida llegarán al sitio al que van y él aprovecha para preguntarle si puede comer algo. La sopa de berros que preparó estuvo deliciosa, pero siente un poco de hambre. Su compañero hace un gesto ligeramente divertido y ambos se detienen en un pequeño restaurante que está de paso y ofrece sánguches orientales. Él elige uno de salmón que no le gusta demasiado. Comiendo el sándwich de pie, parados uno frente al otro y rodeados de silencio, él le hace un par de preguntas superficiales a Nate y este le responde con algo más que monosílabos.
+
+---
+
+## Further reading
+
+- Read about [Biblioteca Nacional Digital de Chile](https://www.bibliotecanacionaldigital.gob.cl/), Chile’s national digital archive with digitized literary and historical materials.
