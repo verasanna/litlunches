@@ -16,10 +16,10 @@ This list focuses on fiction written in Caribbean and Equatoguinean Spanish, cho
 > **Experienced difficulty:** very low  
 
 **Description:**  
-A fragmented, visceral portrait of Havana’s margins, where survival, desire, and decay are narrated in short, immediate bursts. The text moves through episodic scenes rather than a single continuous arc, creating a sense of lived immediacy rather than structured storytelling. Its power lies in accumulation: voices, bodies, and streets forming a dense, unfiltered urban texture.
+A fragmented, visceral portrait of Havana’s margins, where survival, desire, and decay are narrated in short, immediate bursts. The text moves through episodic scenes, creating a sense of lived immediacy rather than structured storytelling. Its power lies in accumulation: voices, bodies, and streets forming a dense, unfiltered urban texture.
 
 **Author:**  
-Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty realism in Latin America. His work focuses on marginal urban existence, often using sparse syntax, heavy colloquial speech, and explicit material to construct an unidealized vision of post-Soviet Havana. His prose prioritizes rhythm and physical immediacy over formal refinement.
+Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty realism in Latin America. His work focuses on marginal urban existence, often using sparse syntax, heavy colloquial speech, and explicit material to construct an unidealized vision of Havana.
 
 **Quotes:**  
 > Lezama comía a menudo en una pizzería que está allí. Bella Nápoles. Ahora no tienen combustible para cocinar. Al frente de la pizzería, en un terreno baldío, improvisaron un fogón rústico de leña. Allí cocinan como pueden un poco de sopa de pescado y arroz. Miriam hacía la cola desde la madrugada y al mediodía compraba unas raciones. De eso vivíamos.
@@ -34,7 +34,7 @@ Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty r
 A darker, more continuous narrative following a young man drifting through poverty, desire, and violence in Havana. Unlike the fragmented structure of *Trilogía sucia*, this work develops a stronger narrative spine while maintaining the same raw linguistic surface. The result is a sustained descent through urban instability, anchored by a restless, embodied voice.
 
 **Author:**  
-Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty realism in Latin America. His work focuses on marginal Cuban life, often using sparse syntax, colloquial speech, and explicit material to construct an unidealized vision of post-Soviet Havana. Narrative progression is driven less by plot mechanics than by survival logic and environmental pressure.
+Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty realism in Latin America. His work focuses on marginal Cuban life, often using sparse syntax, colloquial speech, and explicit material to construct an unidealized vision of Havana.
 
 **Quotes:**  
 > Cuando Rey salió del baño era otra cosa. Daisy preparó una comida decente: arroz, frijoles negros, carne guisada, plátano maduro frito, ensalada de aguacate, habichuelas y pina, agua fría, café.  
@@ -49,7 +49,7 @@ Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty r
 > **Experienced difficulty:** very low  
 
 **Description:**  
-Set in colonial and post-colonial Puerto Rico, the novel follows intertwined lives shaped by race, power, and desire within a richly textured historical environment. The narrative is more linear and architecturally controlled than other Caribbean texts in this list, with clearer progression and more formalized prose rhythms.
+Set in colonial and post-colonial Puerto Rico, the novel follows lives shaped by race, power, and desire within a richly textured historical environment. The narrative is more linear and architecturally controlled than other Caribbean texts in this list, with clearer progression and more formalized prose rhythms.
 
 **Author:**  
 Mayra Santos-Febres is a Puerto Rican writer, poet, and scholar whose work often engages Afro-Caribbean identity, gender, and historical memory. Her prose balances lyrical intensity with narrative clarity, frequently foregrounding bodies, voices, and marginalized histories within Caribbean societies.
@@ -145,10 +145,10 @@ Rosario Ferré was a Puerto Rican writer, essayist, and one of the most importan
 > **Experienced difficulty:** low–moderate  
 
 **Description:**  
-A short story focused on Dominican-American adolescents navigating friendship, masculinity, and social expectations within a migration context. The narrative is linear and tightly structured, concentrating on a limited set of scenes and interactions. Compared to Díaz’s novel-length work, the language is more contained, with controlled Spanglish usage that remains largely inferable from context rather than structurally disruptive.
+A short story focused on Dominican-American adolescents navigating friendship, masculinity, and social expectations within a migration context. The narrative is linear and tightly structured, concentrating on a limited set of scenes and interactions.
 
 **Author:**  
-Junot Díaz constructs here a compact narrative voice that emphasizes immediacy and everyday speech while maintaining thematic links to diaspora and identity.
+Junot Díaz is a Dominican-American writer whose work blends English and Spanish in a hybrid literary register. His narratives frequently address migration, masculinity, and colonial legacies, using a voice that mixes colloquial intensity with intellectual self-awareness.
 
 **Quotes:**  
 > Unas dos horas más tarde, las mujeres sacaron la cena y, como siempre, sólo los niños les dimos las gracias. Debía de ser una tradición dominicana o algo parecido. Hicieron todos los platos que a mí me gustaban —chicharrones, pollo frito, tostones, sancocho, arroz, queso frito, yuca, aguacate, ensalada de patata, un trozo de pernil del tamaño de un meteorito e incluso una ensalada mixta que no me habría importado perderme—, pero en cuanto me junté con el resto de los niños alrededor de la mesa papi dijo oh, no, tú no. Y me quitó de las manos el plato de papel con muy poca amabilidad.
