@@ -44,7 +44,7 @@ Eduardo Sacheri is an Argentine writer and screenwriter known for his precise, a
 > **Experienced difficulty:** low  
 
 **Description:**
-Told as a series of diary entries, the novel follows a widowed office worker counting down the years to retirement, immersed in the monotony of clerical life in Montevideo. Days pass with little variation—work, home, small observations—until an unexpected relationship interrupts the routine. What gives the book its force is not plot but accumulation: moods, habits, and passing thoughts slowly shape a life. The tone is restrained, often dry, yet capable of sudden emotional clarity.
+Told as a series of diary entries, the novel follows a widowed office worker counting down the years to retirement, immersed in the monotony of clerical life in Montevideo. Days pass with little variation, work, home, small observations, until an unexpected relationship interrupts the routine. What gives the book its force is not plot but accumulation: moods, habits, and passing thoughts slowly shape a life. The tone is restrained, often dry, yet capable of sudden emotional clarity.
 
 **Author:**
 Mario Benedetti was one of Uruguay’s most widely read writers and a central figure of the “Generación del 45.” His fiction is marked by clarity, emotional restraint, and a close attention to urban middle-class life. He writes about solitude, routine, and modest hopes without embellishment, giving ordinary experiences a quiet, lasting resonance.
@@ -75,7 +75,7 @@ Selva Almada is a contemporary Argentine writer known for her precise, pared-dow
 > **Experienced difficulty:** low–moderate  
 
 **Description:**
-A cleverly structured novel built from a series of testimonies, where each character offers their own version of the same unsettling story. What initially appears straightforward becomes increasingly ambiguous as perspectives overlap, contradict, and expose hidden motives. The reader is drawn into assembling the truth from fragments, with each voice adding tone, bias, and partial revelation. The effect is both playful and quietly disorienting.
+A novel built from a series of testimonies, where each character offers their own version of the same unsettling story. What initially appears straightforward becomes increasingly ambiguous as perspectives overlap, contradict, and expose hidden motives. The reader is drawn into assembling the truth from fragments, with each voice adding tone, bias, and partial revelation. The effect is both playful and quietly disorienting.
 
 **Author:**
 Marco Denevi was an Argentine writer known for his sharp narrative construction and psychological acuity. His fiction often plays with perspective, perception, and the instability of truth, while maintaining a clear and controlled prose style. He combines accessibility with structural ingenuity, creating stories that are easy to follow on the surface but layered in implication.
@@ -90,7 +90,7 @@ Marco Denevi was an Argentine writer known for his sharp narrative construction 
 > **Experienced difficulty:** low–moderate  
 
 **Description:**
-A novel constructed almost entirely through dialogue between two prisoners sharing a cell. One man escapes through fantasy—recounting films, melodramas, and imagined stories—while the other pushes toward political reflection and lived reality. Their exchanges gradually blur the boundary between narration and conversation, so that storytelling itself becomes a form of survival, intimacy, and negotiation. The rhythm is fragmented, conversational, and highly dependent on voice shifts rather than exposition.
+A novel constructed almost entirely through dialogue between two prisoners sharing a cell. One man escapes through fantasy, recounting films, melodramas, and imagined stories, while the other pushes toward political reflection and lived reality. Their exchanges gradually blur the boundary between narration and conversation, so that storytelling itself becomes a form of survival, intimacy, and negotiation. The rhythm is fragmented, conversational, and highly dependent on voice shifts rather than exposition.
 
 **Author:**
 Manuel Puig was an Argentine novelist associated with experimental narrative forms that merge popular culture, cinematic language, and spoken dialogue. His work often avoids traditional narration in favor of voices, transcripts, and fragmented exchange, creating a literature shaped by how people actually speak, remember, and misremember.
@@ -129,7 +129,7 @@ Samanta Schweblin is a contemporary Argentine writer associated with minimalist 
 > **Experienced difficulty:** low–moderate  
 
 **Description:**
-A grounded rural narrative shaped by landscape, labor, and the slow rhythm of life in Paraguay. Human action is constantly filtered through the material environment—earth, heat, houses, and manual work—so that setting and experience become inseparable. The prose is steady and unornamented, letting physical detail carry emotional weight without explicit commentary. What emerges is a quiet sense of endurance and continuity.
+A grounded rural narrative shaped by landscape, labor, and the slow rhythm of life in Paraguay. Human action is constantly filtered through the material environment, earth, heat, houses, and manual work, so that setting and experience become inseparable. The prose is steady and unornamented, letting physical detail carry emotional weight without explicit commentary. What emerges is a quiet sense of endurance and continuity.
 
 **Author:**
 Josefina Plá was a Spanish-born writer who became one of the most important voices in Paraguayan literature. Her work spans fiction, poetry, and essays, often focusing on social reality, cultural identity, and the lived experience of everyday people. She writes in a clear, controlled style that prioritizes observation and material detail over rhetorical flourish, making her prose closely tied to place and social context.
@@ -177,10 +177,10 @@ Rodolfo Fogwill was an Argentine writer and sociologist known for his sharp, oft
 > **Experienced difficulty:** moderate  
 
 **Description:**
-A novel set during an isolated conference of translators, where language gradually becomes unstable as a system of meaning. What begins as a structured professional gathering slowly turns into a controlled mystery, as interpretation starts to fail and communication loses reliability. The story develops through conversations, observations, and small procedural details, while an underlying conceptual tension—how meaning is produced and maintained—keeps shifting the ground beneath the narrative.
+A novel set during an isolated conference of translators, where language gradually becomes unstable as a system of meaning. What begins as a structured professional gathering slowly turns into a controlled mystery, as interpretation starts to fail and communication loses reliability. The story develops through conversations, observations, and small procedural details, while an underlying conceptual tension, how meaning is produced and maintained, keeps shifting the ground beneath the narrative.
 
 **Author:**
-Pablo de Santis is an Argentine writer known for literary mysteries that combine clear, accessible prose with intellectual and conceptual frameworks. His novels often revolve around systems of knowledge—language, codes, archives—where structure and ambiguity coexist. He tends to favor precise narrative construction over stylistic excess, using plot design as a way to explore abstract ideas.
+Pablo de Santis is an Argentine writer known for literary mysteries that combine clear, accessible prose with intellectual and conceptual frameworks. His novels often revolve around systems of knowledge, language, codes, archives, where structure and ambiguity coexist. He tends to favor precise narrative construction over stylistic excess, using plot design as a way to explore abstract ideas.
 
 **Quotes:**
 > Los traductores ya habían cenado. Tomaban café y se intercambiaban direcciones. Convencí al encargado del bar de que me sirvieran una sopa de verduras. Mientras preparaban la comida, subí a mi cuarto para dejar el montgomery. Llamé a Elena para decir que volvía, pero no estaba, o estaba durmiendo y dejé un mensaje breve en el contestador.

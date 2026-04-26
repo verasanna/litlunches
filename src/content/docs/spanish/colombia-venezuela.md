@@ -3,11 +3,11 @@ title: Northern South American Spanish
 description: Easy Colombian and Venezuelan books for learners regional vocabulary and stylistic variation
 ---
 
-Northern South American Spanish—mainly Colombia and Venezuela—shows clear variation in vocabulary, register, and narrative style, which is often flattened in general learning materials.
+Colombia and Venezuela show clear variation in vocabulary, register, and narrative style, which is often flattened in general learning materials.
 
-In fiction, Colombian and Venezuelan writing ranges from relatively neutral, standard prose to more regionally marked language with distinct lexical choices and idiomatic density. These differences are reflected in how narration is structured, how dialogue is handled, and how local references are integrated into the text.
+Colombian and Venezuelan writing ranges from relatively neutral, standard prose to more regionally marked language with distinct lexical choices and idiomatic density. These differences are reflected in how narration is structured, how dialogue is handled, and how local references are integrated into the text.
 
-This list focuses on fiction written in Colombian and Venezuelan Spanish, prioritizing works that are both linguistically accessible and representative of local literary traditions. Readability is evaluated using structured criteria combined with actual reading experience rather than intuition alone.
+This list focuses on fiction, prioritizing works that are both linguistically accessible and representative of local literary traditions. Readability is evaluated using structured criteria combined with actual reading experience rather than intuition alone.
 
 ## 1. Los abismos — Pilar Quintana
 
@@ -48,8 +48,8 @@ Karina Sainz Borgo is a Venezuelan journalist and novelist whose work often expl
 **Description:**  
 A narrative shaped by tension and interior conflict, where characters move through morally ambiguous terrain without rhetorical excess. The prose remains economical, allowing situations to unfold with minimal mediation, and maintaining a steady rhythm that supports continuous reading.
 
-**Author:**  
-Pilar Quintana develops narratives grounded in psychological immediacy, often placing characters in environments where isolation and emotional pressure define the story’s movement. Her style privileges clarity over stylistic display.
+**Author:**
+Pilar Quintana is a contemporary Colombian novelist. She develops narratives grounded in psychological immediacy, often placing characters in environments where isolation and emotional pressure define the story’s movement. Her style privileges clarity over stylistic display.
 
 **Quotes:**  
 > Con el cuchillo del pescado abre una rama de cebolla y la dora sobre aceite en el caldero. Hierve el arroz, frita unas monedas de plátano verde, apana la lisa que le trajo don Israel y de acompañamiento sirve unas rodajas de tomate con limón, pimienta y sal.  

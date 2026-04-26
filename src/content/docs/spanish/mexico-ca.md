@@ -3,9 +3,9 @@ title: Mexican & Central American Spanish
 description: Easy Spanish books for learners (Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama) with regional vocabulary
 ---
 
-Mexican Spanish and Central American varieties differ in vocabulary, colloquial expressions, and narrative rhythm, with additional regional variation across Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama.
+Mexican and Central American Spanish differ in vocabulary, colloquial expressions, and narrative rhythm, with additional regional variation across Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama.
 
-This list focuses on fiction written in Mexican and Central American Spanish, prioritizing works that are both linguistically accessible and representative of local literary traditions. Readability is evaluated using structured criteria combined with real reading experience rather than intuition alone.
+This list focuses on fiction, prioritizing works that are both linguistically accessible and representative of local literary traditions. Readability is evaluated using structured criteria combined with real reading experience rather than intuition alone.
 
 ## 1. Las batallas en el desierto — José Emilio Pacheco
 
@@ -17,7 +17,7 @@ This list focuses on fiction written in Mexican and Central American Spanish, pr
 A brief, evocative novel set in postwar Mexico City, where childhood, memory, and social change intersect. Through a restrained first-person voice, the narrative reconstructs a formative emotional experience against the backdrop of a transforming society, with a quiet sense of inevitability and loss.
 
 **Author:**  
-José Emilio Pacheco was one of the most respected figures in modern Mexican literature—poet, essayist, and narrator—associated with intellectual clarity and moral seriousness. His prose is marked by precision, economy, and a deep engagement with memory, history, and the passage of time, often focusing on how large social changes are reflected in intimate, personal experiences.
+José Emilio Pacheco was one of the most respected figures in modern Mexican literature, poet, essayist, and narrator, associated with intellectual clarity and moral seriousness. His prose is marked by precision, economy, and a deep engagement with memory, history, and the passage of time, often focusing on how large social changes are reflected in intimate, personal experiences.
 
 **Quotes:**  
 > Toqué a todas las puertas. Yo tan ridículo con mi trajecito blanco y mi raqueta y mi Perry Mason, preguntando, asomándome, a punto de llorar otra vez. Olor a sopa de arroz, olor a chiles rellenos. En todos los departamentos me escucharon casi con miedo. Qué incongruencia mi trajecito blanco. Era la casa de la muerte y no una cancha de tenis.
@@ -29,7 +29,7 @@ José Emilio Pacheco was one of the most respected figures in modern Mexican lit
 > **Experienced difficulty:** very low  
 
 **Description:**  
-Told in a confident and engaging first-person voice, the novel traces the life of a young woman navigating marriage, power, and personal autonomy within a politically charged environment. The narrative combines intimacy and social observation, unfolding with clarity while maintaining a strong emotional arc.
+Told in a confident and engaging first-person voice, the novel traces the life of a young woman navigating marriage, power, and personal autonomy within a politically charged environment. The narrative combines intimacy and social observation.
 
 **Author:**  
 Ángeles Mastretta emerged as a major voice in contemporary Mexican fiction with her focus on female subjectivity and the intersection of personal and political life. Her work is known for its accessibility, narrative fluency, and ability to render complex emotional and social dynamics in a direct and engaging style.
