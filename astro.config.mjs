@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://verasanna.github.io',
+	site: 'https://litlunches.space/',
 	integrations: [
 		starlight({
 			title: 'Litlunches',
