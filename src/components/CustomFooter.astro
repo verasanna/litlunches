@@ -1,0 +1,53 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="custom-footer">
+  <div class="custom-footer__inner">
+    <p class="custom-footer__copy">© {year} Litlunches</p>
+    <nav class="custom-footer__nav" aria-label="Footer">
+      <a href="/blog">Blog</a>
+      <a href="/about">About</a>
+      <a href="/contact">Contact</a>
+      <a href="/legal">Legal</a>
+    </nav>
+  </div>
+</footer>
+
+<style>
+  .custom-footer {
+    border-top: 1px solid var(--sl-color-hairline);
+    padding: 1.5rem var(--sl-content-pad-x);
+    margin-top: auto;
+  }
+
+  .custom-footer__inner {
+    max-width: var(--sl-content-width);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    font-size: 0.875rem;
+  }
+
+  .custom-footer__copy {
+    margin: 0;
+    color: var(--sl-color-gray-3);
+  }
+
+  .custom-footer__nav {
+    display: flex;
+    gap: 1.5rem;
+  }
+
+  .custom-footer__nav a {
+    color: var(--sl-color-gray-3);
+    text-decoration: none;
+  }
+
+  .custom-footer__nav a:hover {
+    color: var(--sl-color-white);
+  }
+</style>

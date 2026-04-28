@@ -22,7 +22,7 @@ A diary-style narrative structured around everyday rural life and routine observ
 Miguel Delibes was a central figure in 20th-century Spanish literature. His work consistently portrays rural environments, nature, and working-class life through precise and restrained prose.
 
 **Quotes:**
-> Melecio dijo que le gustaba la carne de caballo, y el Pavo que no podía tragar la liebre. Yo le dije que no la habría comido bien preparada y que un día le subiría a casa a comer una liebre como Dios manda. El Pavo aceptó. Dijo Melecio que la madre, si quisiera, podría ganar cuartos como cocinera en un hotel de postín.
+> Melecio dijo que le gustaba la carne de caballo, y el Pavo que no podía tragar la liebre. Yo le dije que no la habría comido bien preparada y que un día le subiría a casa a comer [una liebre como Dios manda](/blog/rustic-hare-stew). El Pavo aceptó. Dijo Melecio que la madre, si quisiera, podría ganar cuartos como cocinera en un hotel de postín.
 
 ## 2. Entre visillos — Carmen Martín Gaite
 

@@ -28,7 +28,7 @@ For input to be effective over time, three elements matter:
 
 - **Comprehensible**: supported by context, visuals, gestures, and high-frequency language so meaning remains accessible
 - **Interesting**: the topic is relevant or appealing to the learner
-- **Compelling**: the presentation is engaging enough to sustain attention over time. 
+- **Compelling**: the presentation is engaging enough to sustain attention over time.
 
 Interest helps initiate engagement; compelling input maintains it. Without that second layer, attention tends to drop even if the topic itself is relevant.
 
