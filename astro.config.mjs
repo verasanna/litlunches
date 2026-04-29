@@ -10,6 +10,7 @@ export default defineConfig({
   social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/verasanna' }],
   components: {
     Footer: './src/components/CustomFooter.astro',
+    Head: './src/components/Head.astro',
   },
   sidebar: [
     {

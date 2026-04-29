@@ -1,5 +1,5 @@
 export const site = {
-  url: import.meta.env.SITE,  // Astro exposes astro.config site as SITE
+  url: 'https://litlunches.space',
   name: 'Litlunches',
   description: 'Your comprehensible reading guide',
   defaultOgImage: '/og-default.jpg',
@@ -8,3 +8,8 @@ export const site = {
     url: 'https://litlunches.space',
   },
 } as const;
+
+export function absoluteUrl(path: string): string {
+  return new URL(path, site.url).href;
+}
+

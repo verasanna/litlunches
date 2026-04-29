@@ -1,7 +1,13 @@
 ---
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import SEO from '../components/SEO.astro';
-import { site } from '../config/site';
+import { site, absoluteUrl } from '../config/site';
+
+//import type { HeadConfig } from '@astrojs/starlight/schemas/head';
+type HeadConfig = {
+  tag: 'title' | 'link' | 'meta' | 'script' | 'base' | 'style' | 'noscript' | 'template';
+  attrs?: Record<string, string | boolean | undefined>;
+  content?: string;
+};
 
 interface Props {
   title: string;
@@ -39,27 +45,85 @@ const {
   headings,
 } = Astro.props;
 
-const canonicalUrl = new URL(Astro.url.pathname, site.url).toString();
+const canonicalUrl = new URL(Astro.url.pathname, site.url).href;
+const ogImage = absoluteUrl(image ?? site.defaultOgImage);
+const ogType = schema === 'BlogPosting' || schema === 'Recipe' ? 'article' : 'website';
+
+const publisher = {
+  '@type': 'Organization',
+  name: site.author.name,
+  url: site.author.url,
+};
+
+function buildJsonLd() {
+  const base = {
+    '@context': 'https://schema.org',
+    '@type': schema,
+    name: title,
+    description,
+    url: canonicalUrl,
+    image: ogImage,
+    publisher,
+  };
+
+  if (schema === 'BlogPosting') {
+    return { ...base, headline: title, datePublished: pubDate?.toISOString(), author: publisher };
+  }
+
+  if (schema === 'Recipe' && recipe) {
+    return {
+      ...base,
+      author: publisher,
+      datePublished: pubDate?.toISOString(),
+      prepTime: recipe.prepTime,
+      cookTime: recipe.cookTime,
+      recipeYield: recipe.recipeYield,
+      recipeCategory: recipe.recipeCategory,
+      recipeCuisine: recipe.recipeCuisine,
+      recipeIngredient: recipe.ingredients,
+      recipeInstructions: recipe.instructions?.map((step, i) => ({
+        '@type': 'HowToStep',
+        position: i + 1,
+        text: step,
+      })),
+    };
+  }
+
+  if (schema === 'Blog') {
+    return { ...base, author: publisher };
+  }
+
+  return base;
+}
+
+const head: HeadConfig[] = [
+  { tag: 'link', attrs: { rel: 'canonical', href: canonicalUrl } },
+  ...(noindex ? [{ tag: 'meta' as const, attrs: { name: 'robots', content: 'noindex,nofollow' } }] : []),
+  { tag: 'meta', attrs: { property: 'og:type', content: ogType } },
+  { tag: 'meta', attrs: { property: 'og:title', content: title } },
+  { tag: 'meta', attrs: { property: 'og:description', content: description } },
+  { tag: 'meta', attrs: { property: 'og:image', content: ogImage } },
+  { tag: 'meta', attrs: { property: 'og:url', content: canonicalUrl } },
+  { tag: 'meta', attrs: { property: 'og:site_name', content: site.name } },
+  { tag: 'meta', attrs: { name: 'twitter:card', content: 'summary_large_image' } },
+  { tag: 'meta', attrs: { name: 'twitter:title', content: title } },
+  { tag: 'meta', attrs: { name: 'twitter:description', content: description } },
+  { tag: 'meta', attrs: { name: 'twitter:image', content: ogImage } },
+  {
+    tag: 'script',
+    attrs: { type: 'application/ld+json' },
+    content: JSON.stringify(buildJsonLd()),
+  },
+];
 ---
 
 <StarlightPage
   frontmatter={{
     title,
     description,
-    head: [],
+    head,
   }}
   headings={headings}
 >
-  <SEO
-    slot="head"
-    title={title}
-    description={description}
-    image={image}
-    canonicalUrl={canonicalUrl}
-    noindex={noindex}
-    schema={schema}
-    pubDate={pubDate}
-    recipe={recipe}
-  />
   <slot />
 </StarlightPage>
