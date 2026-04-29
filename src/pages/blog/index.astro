@@ -16,7 +16,7 @@ const posts = (await getCollection('blog')).sort(
     {posts.map((post) => (
       <li style="margin-bottom: 2.5rem; display: flex; gap: 1.25rem; align-items: flex-start;">
         {post.data.image && (
-          <a href={`/blog/${post.id}`} style="flex-shrink: 0;">
+          <a href={`/blog/${post.id}/`} style="flex-shrink: 0;">
             <img
               src={post.data.image}
               alt={post.data.title}
@@ -25,7 +25,7 @@ const posts = (await getCollection('blog')).sort(
           </a>
         )}
         <div>
-          <a href={`/blog/${post.id}`}>
+          <a href={`/blog/${post.id}/`}>
             <strong>{post.data.title}</strong>
           </a>
           <p style="margin: 0.25rem 0 0; color: var(--sl-color-gray-3); font-size: 0.875rem;">
