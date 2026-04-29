@@ -1,16 +1,15 @@
 ---
-import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import PageLayout from '../layouts/PageLayout.astro';
 ---
 
-<StarlightPage
-  frontmatter={{
-    title: 'Contact',
-    description: 'Get in touch with Litlunches',
-  }}
+<PageLayout
+  title="Contact"
+  description="Get in touch with Litlunches"
+  schema="ContactPage"
 >
   <p>Have a suggestion for a book, a correction, or just want to say hello?</p>
   <p>
     Send an email to{' '}
     <a href="mailto:info@litlunches.space">info@litlunches.space</a>.
   </p>
-</StarlightPage>
+</PageLayout>

@@ -1,0 +1,65 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import SEO from '../components/SEO.astro';
+import { site } from '../config/site';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  noindex?: boolean;
+  schema?:
+    | 'WebPage'
+    | 'AboutPage'
+    | 'ContactPage'
+    | 'Blog'
+    | 'BlogPosting'
+    | 'Recipe';
+  pubDate?: Date;
+  recipe?: {
+    prepTime?: string;
+    cookTime?: string;
+    recipeYield?: string;
+    recipeCategory?: string;
+    recipeCuisine?: string;
+    ingredients?: string[];
+    instructions?: string[];
+  };
+  headings?: { depth: number; slug: string; text: string }[];
+}
+
+const {
+  title,
+  description,
+  image,
+  noindex = false,
+  schema = 'WebPage',
+  pubDate,
+  recipe,
+  headings,
+} = Astro.props;
+
+const canonicalUrl = new URL(Astro.url.pathname, site.url).toString();
+---
+
+<StarlightPage
+  frontmatter={{
+    title,
+    description,
+    head: [],
+  }}
+  headings={headings}
+>
+  <SEO
+    slot="head"
+    title={title}
+    description={description}
+    image={image}
+    canonicalUrl={canonicalUrl}
+    noindex={noindex}
+    schema={schema}
+    pubDate={pubDate}
+    recipe={recipe}
+  />
+  <slot />
+</StarlightPage>

@@ -1,14 +1,13 @@
 ---
-import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import PageLayout from '../layouts/PageLayout.astro';
 ---
 
-<StarlightPage
-  frontmatter={{
-    title: 'About Litlunches',
-    description: 'What Litlunches is, why it exists, and how the book lists are made.',
-  }}
+<PageLayout
+  title="About Litlunches"
+  description="What Litlunches is, why it exists"
+  schema="AboutPage"
 >
-  <p>
+    <p>
     Litlunches is a reading guide for language learners who want to read real books,
     not graded readers or simplified texts.
   </p>
@@ -19,16 +18,4 @@ import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
     memorizing rules. Reading fiction is one of the most effective and sustainable
     forms of that exposure.
   </p>
-
-    <p>
-    For more details, see the{' '}
-    <a href="/about/method">comprehensible input</a> page.
-  </p>
-
-  <h2>Contact</h2>
-
-  <p>
-    Suggestions, corrections, or questions are welcome at{' '}
-    <a href="mailto:info@litlunches.space">info@litlunches.space</a>.
-  </p>
-</StarlightPage>
+</PageLayout>

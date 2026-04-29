@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
-import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import PageLayout from '../../layouts/PageLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -13,70 +13,25 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content, headings } = await render(post);
 
-const siteUrl = 'https://litlunches.space';
-const ogImage = post.data.image
-  ? `${siteUrl}${post.data.image}`
-  : `${siteUrl}/og-default.jpg`;
+const isRecipe = post.data.type === 'recipe';
 ---
 
-<StarlightPage
-  frontmatter={{
-    title: post.data.title,
-    description: post.data.description,
-    head: [
-      {
-        tag: 'meta',
-        attrs: { property: 'og:title', content: post.data.title },
-      },
-      {
-        tag: 'meta',
-        attrs: { property: 'og:description', content: post.data.description },
-      },
-      {
-        tag: 'meta',
-        attrs: { property: 'og:image', content: ogImage },
-      },
-      {
-        tag: 'meta',
-        attrs: { property: 'og:type', content: 'article' },
-      },
-      {
-        tag: 'meta',
-        attrs: { name: 'twitter:card', content: 'summary_large_image' },
-      },
-      {
-        tag: 'meta',
-        attrs: { name: 'twitter:title', content: post.data.title },
-      },
-      {
-        tag: 'meta',
-        attrs: { name: 'twitter:description', content: post.data.description },
-      },
-      {
-        tag: 'meta',
-        attrs: { name: 'twitter:image', content: ogImage },
-      },
-      {
-        tag: 'script',
-        attrs: { type: 'application/ld+json' },
-        content: JSON.stringify({
-          '@context': 'https://schema.org',
-          '@type': 'BlogPosting',
-          headline: post.data.title,
-          description: post.data.description,
-          image: ogImage,
-          datePublished: post.data.pubDate.toISOString(),
-          url: `${siteUrl}/blog/${post.id}`,
-          author: {
-            '@type': 'Organization',
-            name: 'Litlunches',
-            url: siteUrl,
-          },
-        }),
-      },
-    ],
-  }}
+<PageLayout
+  title={post.data.title}
+  description={post.data.description}
+  image={post.data.image}
+  schema={isRecipe ? 'Recipe' : 'BlogPosting'}
+  pubDate={post.data.pubDate}
   headings={headings}
+  recipe={isRecipe ? {
+    prepTime: post.data.prepTime,
+    cookTime: post.data.cookTime,
+    recipeYield: post.data.recipeYield,
+    recipeCategory: post.data.recipeCategory,
+    recipeCuisine: post.data.recipeCuisine,
+    ingredients: post.data.ingredients,
+    instructions: post.data.instructions,
+  } : undefined}
 >
   <p style="color: var(--sl-color-gray-3); font-size: 0.875rem; margin-top: 0;">
     {post.data.pubDate.toLocaleDateString('en-US', {
@@ -95,4 +50,4 @@ const ogImage = post.data.image
   )}
 
   <Content />
-</StarlightPage>
+</PageLayout>

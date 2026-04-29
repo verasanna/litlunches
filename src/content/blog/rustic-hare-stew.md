@@ -1,53 +1,56 @@
 ---
 title: "Rustic Hare Stew"
-description: "A slow-simmered hare stew with red wine, herbs, and root vegetables, deeply flavored and traditional."
+description: "A slow-simmered hare stew with red wine, herbs, and root vegetables."
 pubDate: 2026-04-18
 image: /blog-images/hare-stew.jpg
-tags: [stew, game, hare, Spanish, rustic]
-category: Main Course
-cuisine: Spanish
-yield: "4 servings"
-prepTime: PT25M
+type: recipe
+prepTime: PT20M
 cookTime: PT2H30M
-totalTime: PT2H55M
+recipeYield: "4 servings"
+recipeCategory: "Main course"
+recipeCuisine: "French"
+ingredients:
+  - "1 hare, jointed"
+  - "500ml red wine"
+  - "2 carrots, roughly chopped"
+  - "1 onion, quartered"
+  - "3 garlic cloves"
+  - "2 bay leaves"
+  - "Fresh thyme"
+  - "Salt and pepper"
+instructions:
+  - "Marinate the hare in red wine with vegetables and herbs overnight."
+  - "Brown the hare pieces in batches in a heavy casserole."
+  - "Add the marinade and vegetables, bring to a simmer."
+  - "Cook covered on low heat for 2.5 hours until tender."
+  - "Season and rest for 10 minutes before serving."
 ---
 
 A slow-simmered hare stew with red wine, herbs, and root vegetables, deeply flavored and traditional.
 
-- **Prep** 25min
+- **Prep** 20min
 - **Cook** 2h 30min
-- **Total** 2h 55min
+- **Total** 2h 50min
 - **Yield** 4 servings
 
 ## Ingredients
 
-- 1 hare, jointed (or 1.5 kg hare pieces)
-- 150g smoked bacon, diced
-- 2 tbsp olive oil
-- 1 large onion, finely chopped
-- 2 carrots, sliced
-- 3 garlic cloves, crushed
-- 2 tbsp plain flour
-- 500ml dry red wine
-- 250ml game or beef stock
+- 1 hare, jointed
+- 500ml red wine
+- 2 carrots, roughly chopped
+- 1 onion, quartered
+- 3 garlic cloves
 - 2 bay leaves
-- 1 tsp fresh thyme leaves
-- 1 tsp smoked paprika
-- Salt and black pepper to taste
-- 200g small mushrooms
-- 1 tbsp red wine vinegar
-- Fresh parsley, chopped (to garnish)
+- Fresh thyme
+- Salt and pepper
 
 ## Instructions
 
-1. Season the hare pieces with salt and pepper. Heat olive oil in a large heavy pot and brown the hare in batches. Remove and set aside.
-2. In the same pot, cook the bacon until it renders fat and becomes crisp. Add onion and carrots, cooking until softened.
-3. Stir in garlic and cook briefly, then sprinkle in flour and cook for 1–2 minutes, stirring constantly.
-4. Pour in red wine gradually, scraping the bottom to deglaze. Add stock, bay leaves, thyme, and smoked paprika.
-5. Return the hare to the pot. Bring to a gentle simmer, cover, and cook on low heat for about 2 hours, stirring occasionally.
-6. Add mushrooms during the last 30 minutes of cooking.
-7. Adjust seasoning and stir in red wine vinegar just before serving.
-8. Garnish with fresh parsley and serve hot, ideally with crusty bread or boiled potatoes.
+- Marinate the hare in red wine with vegetables and herbs overnight.
+- Brown the hare pieces in batches in a heavy casserole.
+- Add the marinade and vegetables, bring to a simmer.
+- Cook covered on low heat for 2.5 hours until tender.
+- Season and rest for 10 minutes before serving.
 
 ## Notes
 

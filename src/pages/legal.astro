@@ -1,12 +1,12 @@
 ---
-import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import PageLayout from '../layouts/PageLayout.astro';
 ---
 
-<StarlightPage
-  frontmatter={{
-    title: 'Legal',
-    description: 'Legal information for Litlunches',
-  }}
+<PageLayout
+  title="Legal"
+  description="Legal information for Litlunches"
+  schema="WebPage"
+  noindex={true}
 >
   <p>
     This website is provided as-is. 
@@ -21,4 +21,4 @@ import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
     If you have any legal concerns, contact us at{' '}
     <a href="mailto:info@litlunches.space">info@litlunches.space</a>.
   </p>
-</StarlightPage>
+</PageLayout>

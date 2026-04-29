@@ -4,7 +4,7 @@ import { docsSchema } from '@astrojs/starlight/schema';
 import { glob } from 'astro/loaders';
 
 export const collections = {
-	docs: defineCollection({ loader: docsLoader(), schema: docsSchema() }),
+  docs: defineCollection({ loader: docsLoader(), schema: docsSchema() }),
   blog: defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
     schema: z.object({
@@ -12,6 +12,14 @@ export const collections = {
       description: z.string(),
       pubDate: z.date(),
       image: z.string().optional(),
+      type: z.enum(['post', 'recipe']).default('post'),
+      prepTime: z.string().optional(),
+      cookTime: z.string().optional(),
+      recipeYield: z.string().optional(),
+      recipeCategory: z.string().optional(),
+      recipeCuisine: z.string().optional(),
+      ingredients: z.array(z.string()).optional(),
+      instructions: z.array(z.string()).optional(),
     }),
   }),
 };

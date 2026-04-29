@@ -1,18 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
-import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-
+import PageLayout from '../../layouts/PageLayout.astro';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 ---
 
-<StarlightPage
-  frontmatter={{
-    title: 'Blog',
-    description: 'Thoughts on language learning, reading, and comprehensible input.',
-  }}
+<PageLayout
+  title="Blog"
+  description="Supporting material"
+  schema="Blog"
 >
   <ul style="list-style: none; padding: 0;">
     {posts.map((post) => (
@@ -42,4 +40,4 @@ const posts = (await getCollection('blog')).sort(
       </li>
     ))}
   </ul>
-</StarlightPage>
+</PageLayout>
