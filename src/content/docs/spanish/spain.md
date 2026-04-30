@@ -41,7 +41,7 @@ Carmen Martín Gaite was a major postwar Spanish writer and essayist. Her fictio
 > —No, no, que ya os conozco y me entretenéis mucho.  
 > —Bueno, y qué tienes que hacer. Que suba, ¿verdad, Julia?  
 > —Claro.  
-> —No, de verdad, me voy, que hoy dijo mi madre que iba a hacer las galletas de limón y la tengo que ayudar.  
+> —No, de verdad, me voy, que hoy dijo mi madre que iba a hacer las [galletas de limón](/blog/lemon-cookies/) y la tengo que ayudar.  
 > —Pues vaya cosa, llamamos a tu madre, total no te retrasas más que un ratito. Ni que fuera tanto lo que tiene que hacer.
 
 ## 3. Historias de la Artámila — Ana María Matute
@@ -57,7 +57,7 @@ A set of short stories set in rural environments, often centered on childhood pe
 Ana María Matute, a member of the Royal Spanish Academy, was one of the most respected Spanish writers of the 20th century. Her work often addresses childhood, memory, and moral ambiguity, especially in the context of post–Civil War Spain.
 
 **Quotes:**
-> En aquellas tierras, tan lejanas del mar, el pescado era algo maravilloso, y ellos sabían que se gustaba celebrar la Nochebuena cenando besugo asado.  
+> En aquellas tierras, tan lejanas del mar, el pescado era algo maravilloso, y ellos sabían que se gustaba celebrar la Nochebuena cenando [besugo asado](/blog/besugo-asado/).  
 > —Hemos vendido el mayor besugo del mundo —dijo entonces uno de los pescadores—. Era una pieza como de aquí allá. ¿Sabéis a quién? A un minero... Estaba allí, con todos sus hijos alrededor. ¡Buen festín tendrán esta noche! Te juro que podría montar en el lomo del besugo a toda la chiquillería, y aún sobraría la cola.
 
 ## 4. El porqué de las cosas — Quim Monzó
@@ -73,7 +73,7 @@ Very short stories, often no more than a few pages, with direct language and min
 Quim Monzó is a contemporary Catalan writer and journalist, widely known for his short fiction. His style is minimalist and sharply ironic, often reworking familiar narrative patterns in unexpected ways.
 
 **Quotes:**
-> Un sábado los vecinos de arriba lo invitaron a cenar. Aceptó. Ella se llamaba Raquel. Él, Bplzznt. Cenaron aguacates con gambas y salsa rosa y rosbif con salsa marrón. Bebieron dos botellas de vino. El matrimonio bailó. Después, mientras Bplzznt preparaba unos whiskies, Raquel, riéndose, obligó al señor Trujillo a que bailase con ella.
+> Un sábado los vecinos de arriba lo invitaron a cenar. Aceptó. Ella se llamaba Raquel. Él, Bplzznt. Cenaron [aguacates con gambas y salsa rosa](/blog/stuffed-avocados-prawns/) y rosbif con salsa marrón. Bebieron dos botellas de vino. El matrimonio bailó. Después, mientras Bplzznt preparaba unos whiskies, Raquel, riéndose, obligó al señor Trujillo a que bailase con ella.
 
 ## 5. Progenie — Susana Martín Gijón
 
@@ -121,7 +121,7 @@ Andrés Ibáñez is a Spanish novelist and literary critic known for combining r
 **Quotes:**
 > —Pero… ¿no te quedas a cenar?  
 > —Creo que no, Horst. Llego siempre muy tarde. No me gusta conducir de noche.  
-> —Tengo toda una cena preparada. Sopa de cebolla, ensalada de algas wakame con salsa de soja y semillas de sésamo y salmón en papillote con eneldo. Y pan rústico, de ese que tiene alforfón, centeno y avena, con mantequilla salada.  
+> —Tengo toda una cena preparada. [Sopa de cebolla](/blog/spanish-onion-soup/), ensalada de algas wakame con salsa de soja y semillas de sésamo y salmón en papillote con eneldo. Y pan rústico, de ese que tiene alforfón, centeno y avena, con mantequilla salada.  
 > —Dios mío, Horst, te has convertido en un chef.
 
 ## 8. Nada — Carmen Laforet
@@ -153,7 +153,7 @@ A short, first-person narrative with direct syntax but extreme emotional and the
 Camilo José Cela, awarded the Nobel Prize in Literature in 1989, is associated with “tremendismo,” a style emphasizing harsh, often violent aspects of reality. His work combines formal control with strong thematic impact.
 
 **Quotes:**
-> Para las mujeres había chocolate con tejeringos, y tortas de almendra, y bizcochada, y pan de higo, y para los hombres había manzanilla y tapitas de chorizo, de morcón, de aceitunas, de sardinas en lata… Sé que hubo en el pueblo quien me criticó por no haber dado de comer; allá ellos.
+> Para las mujeres había chocolate con [tejeringos](/blog/tejeringos/), y tortas de almendra, y bizcochada, y pan de higo, y para los hombres había manzanilla y tapitas de chorizo, de morcón, de aceitunas, de sardinas en lata… Sé que hubo en el pueblo quien me criticó por no haber dado de comer; allá ellos.
 
 ## 10. Cicatriz — Sara Mesa
 
@@ -183,7 +183,7 @@ A thriller built around suspense, memory, and revelation, with a strong forward-
 Mikel Santiago is a contemporary Spanish thriller writer with an international readership. His novels are known for their pacing, clear structure, and emphasis on plot over stylistic experimentation.
 
 **Quotes:**
-> Mientras comíamos como si fuésemos diez en la mesa —revuelto de hongos, croquetas de chipirón en su tinta, cazuela de almejas, bacalao al pilpil con salsa de erizo de mar, solomillo con sal gorda y tarta de queso para rematar la faena—, hablamos de mi vida en Amsterdam. Ane solía viajar a la ciudad para visitar el Stedelijk Museum, además de algunas galerías potentes. Les hablé de mis andanzas como músico, camarero, profesor de español. Me salté los dos años como camello a domicilio. Preferí hablarles de mis tres meses cultivando tulipanes en Flevoland.
+> Mientras comíamos como si fuésemos diez en la mesa —[revuelto de hongos](/blog/revuelto-de-hongos/), croquetas de chipirón en su tinta, cazuela de almejas, bacalao al pilpil con salsa de erizo de mar, solomillo con sal gorda y tarta de queso para rematar la faena—, hablamos de mi vida en Amsterdam. Ane solía viajar a la ciudad para visitar el Stedelijk Museum, además de algunas galerías potentes. Les hablé de mis andanzas como músico, camarero, profesor de español. Me salté los dos años como camello a domicilio. Preferí hablarles de mis tres meses cultivando tulipanes en Flevoland.
 
 ---
 

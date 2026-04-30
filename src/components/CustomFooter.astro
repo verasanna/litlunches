@@ -1,6 +1,10 @@
 ---
+import type { Props } from '@astrojs/starlight/props';
+import Pagination from '@astrojs/starlight/components/Pagination.astro';
+
 const year = new Date().getFullYear();
 ---
+<Pagination /> 
 
 <footer class="custom-footer">
   <div class="custom-footer__inner">
