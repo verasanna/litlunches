@@ -2,7 +2,7 @@
 title: "Revuelto de Hongos (Spanish Mushroom Scramble)"
 description: "A simple and flavorful Spanish-style scramble made with seasonal mushrooms, eggs, garlic, and olive oil. Creamy, earthy, and quick to prepare."
 pubDate: 2026-04-30
-image: /blog-images/revuelto-de-hongos.jpg
+image: ../../assets/blog-images/revuelto-de-hongos.jpg
 type: recipe
 prepTime: PT10M
 cookTime: PT15M

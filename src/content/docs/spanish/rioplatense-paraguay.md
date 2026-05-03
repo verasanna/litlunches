@@ -35,7 +35,7 @@ A quietly engaging novel about a father and daughter learning to live together a
 Eduardo Sacheri is an Argentine writer and screenwriter known for his precise, accessible storytelling and strong sense of everyday realism. His work often explores family bonds, friendship, and moral choices within ordinary settings, particularly in urban Argentina. He has a talent for capturing how people speak, hesitate, and relate to one another, giving his narratives a natural rhythm and emotional credibility.
 
 **Quotes:**
-> Por la cara que puso su papá ella se dio cuenta de que no le había avisado nada, pero no por olvido, sino por venganza. Ahora, con su papá quieto frente a la mesada, con una tostada a medio untar con queso blanco, consumaba su plan. Por algo el otro día, cuando volvieron, les había abierto la puerta radiante, sin hacer la menor referencia a la discusión telefónica de la ruta, y les hizo tortilla de papa (que es una de las pocas cosas que sabe cocinar, la muy tarada). Por eso fue una semana tranquila.
+> Por la cara que puso su papá ella se dio cuenta de que no le había avisado nada, pero no por olvido, sino por venganza. Ahora, con su papá quieto frente a la mesada, con una tostada a medio untar con queso blanco, consumaba su plan. Por algo el otro día, cuando volvieron, les había abierto la puerta radiante, sin hacer la menor referencia a la discusión telefónica de la ruta, y les hizo [tortilla de papa](/blog/tortilla-de-papa/) (que es una de las pocas cosas que sabe cocinar, la muy tarada). Por eso fue una semana tranquila.
 
 ## 3. La tregua — Mario Benedetti
 
@@ -96,7 +96,7 @@ A novel constructed almost entirely through dialogue between two prisoners shari
 Manuel Puig was an Argentine novelist associated with experimental narrative forms that merge popular culture, cinematic language, and spoken dialogue. His work often avoids traditional narration in favor of voices, transcripts, and fragmented exchange, creating a literature shaped by how people actually speak, remember, and misremember.
 
 **Quotes:**
-> «¿son muy sabrosas?», sí, una pata de pollo al espiedo, galletitas con pedazos grandes de queso fresco y rodajas arrolladas de jamón cocido, y un pedazo tan rico de fruta abrillantada, de zapallo, y con una cuchara al final me como todo el dulce de leche que quiero, sin miedo de que se termine porque hay mucho, y me está viniendo tanto sueño, Marta, no te podés imaginar qué ganas tengo de dormir después de comer todo lo que me encontré gracias a la mujer-araña, y después de que me coma una cucharada más de dulce de leche y después de dormir…
+> «¿son muy sabrosas?», sí, una pata de [pollo al espiedo](/blog/pollo-al-espiedo/), galletitas con pedazos grandes de queso fresco y rodajas arrolladas de jamón cocido, y un pedazo tan rico de fruta abrillantada, de zapallo, y con una cuchara al final me como todo el dulce de leche que quiero, sin miedo de que se termine porque hay mucho, y me está viniendo tanto sueño, Marta, no te podés imaginar qué ganas tengo de dormir después de comer todo lo que me encontré gracias a la mujer-araña, y después de que me coma una cucharada más de dulce de leche y después de dormir…
 
 ## 7. Pájaros en la boca — Samanta Schweblin
 

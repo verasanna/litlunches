@@ -2,7 +2,7 @@
 title: "Lemon Cookies"
 description: "Soft and zesty lemon cookies with a bright citrus flavor and a light, tender crumb."
 pubDate: 2026-04-29
-image: /blog-images/lemon-cookies.jpg
+image: ../../assets/blog-images/lemon-cookies.jpg
 type: recipe
 prepTime: PT15M
 cookTime: PT12M

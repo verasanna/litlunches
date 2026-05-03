@@ -2,7 +2,7 @@
 title: "Roasted Sea Bream (Besugo Asado)"
 description: "A classic Spanish oven-roasted sea bream with garlic, potatoes, and a light white wine dressing."
 pubDate: 2026-04-29
-image: /blog-images/besugo-asado.jpg
+image: ../../assets/blog-images/besugo-asado.jpg
 type: recipe
 prepTime: PT20M
 cookTime: PT40M

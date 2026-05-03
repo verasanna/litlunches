@@ -53,6 +53,8 @@ const publisher = {
   '@type': 'Organization',
   name: site.author.name,
   url: site.author.url,
+  sameAs: [site.social.facebook],
+  email: 'info@litlunches.space',
 };
 
 function buildJsonLd() {
@@ -93,8 +95,14 @@ function buildJsonLd() {
     return { ...base, author: publisher };
   }
 
+if (schema === 'ContactPage') {
+  return {
+    ...base,
+  };
+}
   return base;
 }
+
 
 const head: HeadConfig[] = [
   { tag: 'link', attrs: { rel: 'canonical', href: canonicalUrl } },

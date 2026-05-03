@@ -7,6 +7,9 @@ export const site = {
     name: 'Litlunches',
     url: 'https://litlunches.space',
   },
+  social: {
+    facebook: 'https://www.facebook.com/litlunches',
+  },
 } as const;
 
 export function absoluteUrl(path: string): string {

@@ -2,7 +2,7 @@
 title: "Stuffed Avocados with Prawns and Pink Sauce"
 description: "A fresh and elegant Spanish-style starter featuring creamy avocados filled with succulent prawns and a tangy pink sauce."
 pubDate: 2026-04-30
-image: /blog-images/stuffed-avocados-prawns.jpg
+image: ../../assets/blog-images/stuffed-avocados-prawns.jpg
 type: recipe
 prepTime: PT20M
 cookTime: PT5M

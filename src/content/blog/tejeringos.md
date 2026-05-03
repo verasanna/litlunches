@@ -2,7 +2,7 @@
 title: "Tejeringos (Spanish Fried Dough Spirals)"
 description: "Traditional Andalusian tejeringos—crispy, lightly salty fried dough spirals, typically served with hot chocolate for dipping."
 pubDate: 2026-04-30
-image: /blog-images/tejeringos.jpg
+image: ../../assets/blog-images/tejeringos.jpg
 type: recipe
 prepTime: PT15M
 cookTime: PT20M

@@ -22,7 +22,7 @@ A tightly focused novel of childhood perception, where adult tensions are filter
 Pilar Quintana is a contemporary Colombian novelist whose work centers on intimate, often unsettling emotional landscapes, frequently set against peripheral or non-urban environments. Her prose is characterized by restraint, clarity, and a controlled intensity that avoids ornament while sustaining narrative tension.
 
 **Quotes:**  
-> El cumpleaños de mi papá, diez días después del mío, fue la última vez que estuvimos los cuatro solos, mi tía Amelia, mis papás y yo. Lo celebramos en nuestro apartamento. La selva decorada con serpentinas, un letrero grande hecho por mí y una torta de naranja preparada por mi tía. Mi mamá y yo le regalamos un radio nuevo para su oficina. Mi tía le pasó una caja envuelta en papel plateado de Zas, un almacén del centro comercial. Adentro venía una fina camisa italiana de color azul claro.
+> El cumpleaños de mi papá, diez días después del mío, fue la última vez que estuvimos los cuatro solos, mi tía Amelia, mis papás y yo. Lo celebramos en nuestro apartamento. La selva decorada con serpentinas, un letrero grande hecho por mí y una [torta de naranja](/blog/orange-cake/) preparada por mi tía. Mi mamá y yo le regalamos un radio nuevo para su oficina. Mi tía le pasó una caja envuelta en papel plateado de Zas, un almacén del centro comercial. Adentro venía una fina camisa italiana de color azul claro.
 
 ## 2. El Tercer País — Karina Sainz Borgo
 
@@ -37,7 +37,7 @@ Set in an unnamed, collapsing territory, the novel follows a woman navigating di
 Karina Sainz Borgo is a Venezuelan journalist and novelist whose work often explores exile, state collapse, and individual endurance. Her prose tends toward an internationally legible style, balancing narrative urgency with structural clarity.
 
 **Quotes:**  
-> Había crecido bebiendo directo de un cazo la mazamorra, un mazacote de maíz lleno de gorgojos. Tampoco había utilizado antes una servilleta, ni mucho menos probado unas arepas tan blancas y tiernas como las que Abundio le hizo servir rellenas de queso blanco y acompañadas con frijoles negros, carne mechada y plátano frito.
+> Había crecido bebiendo directo de un cazo la mazamorra, un mazacote de maíz lleno de gorgojos. Tampoco había utilizado antes una servilleta, ni mucho menos probado unas arepas tan blancas y tiernas como las que Abundio le hizo servir rellenas de queso blanco y acompañadas con frijoles negros, carne mechada y [plátano frito](/blog/fried-plantains/).
 
 ## 3. Noche negra — Pilar Quintana
 
@@ -132,7 +132,7 @@ A reconstruction of a foretold death, told through multiple perspectives that ci
 Gabriel García Márquez employs investigative narrative techniques here, blending reportage and fiction to examine collective responsibility and memory.
 
 **Quotes:**  
-> El coronel Lázaro Aponte se había levantado un poco antes de las cuatro. Acababa de afeitarse cuando el agente Leandro Pornoy le reveló las intenciones de los hermanos Vicario. Había resuelto tantos pleitos de amigos la noche anterior, que no se dio ninguna prisa por uno más. Se vistió con calma, se hizo varias veces hasta que le quedó perfecto el corbatín de mariposa, y se colgó en el cuello el escapulario de la Congregación de María para recibir al obispo. Mientras desayunaba con un guiso de hígado cubierto de anillos de cebolla, su esposa le contó muy excitada que Bayardo San Román había devuelto a Ángela Vicario, pero él no lo tomó con igual dramatismo.
+> El coronel Lázaro Aponte se había levantado un poco antes de las cuatro. Acababa de afeitarse cuando el agente Leandro Pornoy le reveló las intenciones de los hermanos Vicario. Había resuelto tantos pleitos de amigos la noche anterior, que no se dio ninguna prisa por uno más. Se vistió con calma, se hizo varias veces hasta que le quedó perfecto el corbatín de mariposa, y se colgó en el cuello el escapulario de la Congregación de María para recibir al obispo. Mientras desayunaba con un [guiso de hígado cubierto de anillos de cebolla](/blog/higado-encebollado/), su esposa le contó muy excitada que Bayardo San Román había devuelto a Ángela Vicario, pero él no lo tomó con igual dramatismo.
 
 ## 9. La perra — Pilar Quintana
 
@@ -147,7 +147,7 @@ A stark, intimate novel set in a coastal environment, where isolation and desire
 Pilar Quintana explores marginal settings and psychologically charged situations with a restrained yet evocative style.
 
 **Quotes:**  
-> Almorzaron arroz con camarones, cantaron el feliz cumpleaños y se comieron una torta con crema azul que habían encargado en Buenaventura. Las niñas le entregaron un regalo a su bisabuela y a ella se le escurrieron las lágrimas. Damaris le pasó el brazo por la espalda y se la estuvo sobando un rato.
+> Almorzaron [arroz con camarones](/blog/arroz-con-camarones/), cantaron el feliz cumpleaños y se comieron una torta con crema azul que habían encargado en Buenaventura. Las niñas le entregaron un regalo a su bisabuela y a ella se le escurrieron las lágrimas. Damaris le pasó el brazo por la espalda y se la estuvo sobando un rato.
 
 ## 10. ¡Que viva la música! — Andrés Caicedo
 

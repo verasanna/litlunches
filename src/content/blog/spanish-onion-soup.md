@@ -2,7 +2,7 @@
 title: "Spanish Onion Soup (Sopa de Cebolla)"
 description: "A rich and comforting Spanish-style onion soup with caramelized onions, broth, and toasted bread topped with melted cheese."
 pubDate: 2026-04-30
-image: /blog-images/spanish-onion-soup.jpg
+image: ../../assets/blog-images/spanish-onion-soup.jpg
 type: recipe
 prepTime: PT15M
 cookTime: PT1H

@@ -68,7 +68,7 @@ A quiet, introspective novel that moves between childhood memories and adult ref
 Alejandro Zambra is a Chilean writer associated with minimalist, reflective prose and a strong focus on memory and generational identity. His work often explores the relationship between personal experience and historical context, particularly the legacy of dictatorship, using simple language and restrained narrative forms that invite careful, attentive reading.
 
 **Quotes:**
-> Luego hacemos tallarines y armamos una salsa con un poco de crema y cebollines. La salsa queda un poco seca y en verdad ninguno de los dos tiene hambre.  
+> Luego hacemos [tallarines y armamos una salsa con un poco de crema y cebollines](/blog/tagliatelle-cream-onion/). La salsa queda un poco seca y en verdad ninguno de los dos tiene hambre.  
 > A veces, al mirar la comida en el plato, me dice Claudia, recuerdo esa expresión, esa respuesta que mi madre y mi abuela me daban todo el tiempo: come y calla. Habían cocinado algo nuevo, un guiso desconocido que no tenía buen aspecto y Claudia quería saber qué era. Su madre y su abuela respondían a coro: come y calla.
 
 ## 5. La ciudad de los césares — Manuel Rojas
@@ -175,7 +175,7 @@ A reflective novel that follows a protagonist moving through different stages of
 Jeremías Gamboa is a contemporary Peruvian writer associated with a generation that combines literary ambition with clear, controlled prose. His work often explores personal growth, education, and social mobility, focusing on how individual trajectories are shaped by environment, opportunity, and memory, while maintaining accessible narrative form.
 
 **Quotes:**
-> Nate le dice que siguiendo por la avenida llegarán al sitio al que van y él aprovecha para preguntarle si puede comer algo. La sopa de berros que preparó estuvo deliciosa, pero siente un poco de hambre. Su compañero hace un gesto ligeramente divertido y ambos se detienen en un pequeño restaurante que está de paso y ofrece sánguches orientales. Él elige uno de salmón que no le gusta demasiado. Comiendo el sándwich de pie, parados uno frente al otro y rodeados de silencio, él le hace un par de preguntas superficiales a Nate y este le responde con algo más que monosílabos.
+> Nate le dice que siguiendo por la avenida llegarán al sitio al que van y él aprovecha para preguntarle si puede comer algo. [La sopa de berros](/blog/watercress-soup/) que preparó estuvo deliciosa, pero siente un poco de hambre. Su compañero hace un gesto ligeramente divertido y ambos se detienen en un pequeño restaurante que está de paso y ofrece sánguches orientales. Él elige uno de salmón que no le gusta demasiado. Comiendo el sándwich de pie, parados uno frente al otro y rodeados de silencio, él le hace un par de preguntas superficiales a Nate y este le responde con algo más que monosílabos.
 
 ---
 

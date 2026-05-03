@@ -20,7 +20,7 @@ A brief, evocative novel set in postwar Mexico City, where childhood, memory, an
 José Emilio Pacheco was one of the most respected figures in modern Mexican literature, poet, essayist, and narrator, associated with intellectual clarity and moral seriousness. His prose is marked by precision, economy, and a deep engagement with memory, history, and the passage of time, often focusing on how large social changes are reflected in intimate, personal experiences.
 
 **Quotes:**  
-> Toqué a todas las puertas. Yo tan ridículo con mi trajecito blanco y mi raqueta y mi Perry Mason, preguntando, asomándome, a punto de llorar otra vez. Olor a sopa de arroz, olor a chiles rellenos. En todos los departamentos me escucharon casi con miedo. Qué incongruencia mi trajecito blanco. Era la casa de la muerte y no una cancha de tenis.
+> Toqué a todas las puertas. Yo tan ridículo con mi trajecito blanco y mi raqueta y mi Perry Mason, preguntando, asomándome, a punto de llorar otra vez. Olor a sopa de arroz, olor a [chiles rellenos](/blog/chiles-rellenos/). En todos los departamentos me escucharon casi con miedo. Qué incongruencia mi trajecito blanco. Era la casa de la muerte y no una cancha de tenis.
 
 ## 2. Arráncame la vida — Ángeles Mastretta
 
@@ -35,7 +35,7 @@ Told in a confident and engaging first-person voice, the novel traces the life o
 Ángeles Mastretta emerged as a major voice in contemporary Mexican fiction with her focus on female subjectivity and the intersection of personal and political life. Her work is known for its accessibility, narrative fluency, and ability to render complex emotional and social dynamics in a direct and engaging style.
 
 **Quotes:**  
-> Entré a la casa a ver que fueran preparando los chilaquiles, la cecina, el café y los panes para el desayuno. En la cocina había unas cuarenta mujeres dedicadas a echar tortillas y ayudar en la guisada. Me acerqué a la que cuidaba la cazuela en que hervía la salsa de los chilaquiles.
+> Entré a la casa a ver que fueran preparando los [chilaquiles](/blog/chilaquiles/), la cecina, el café y los panes para el desayuno. En la cocina había unas cuarenta mujeres dedicadas a echar tortillas y ayudar en la guisada. Me acerqué a la que cuidaba la cazuela en que hervía la salsa de los chilaquiles.
 
 ## 3. Casas vacías — Brenda Navarro
 
@@ -65,7 +65,7 @@ A darkly comic crime novel in which deception, family intrigue, and opportunism 
 Jorge Ibargüengoitia is widely regarded as one of Mexico’s sharpest satirists. His fiction combines humor with precise observation of social behavior, often exposing hypocrisy and absurdity through deceptively simple narrative structures and highly readable prose.
 
 **Quotes:**  
-> Lucero untó mantequilla en una tortilla, la enrolló haciéndola un taquito y se lo dio a mi tío, hizo otro y se lo dio al gringo, hizo un tercero y se lo comió ella misma. A mí no me dio nada. La sopa era de fideo y fue servida según lo que yo recordaba haber sido la costumbre de mi tía Leonor: cada comensal agregaba a su gusto trocitos de queso blanco y chiles guajillos fritos.
+> Lucero untó mantequilla en una tortilla, la enrolló haciéndola un taquito y se lo dio a mi tío, hizo otro y se lo dio al gringo, hizo un tercero y se lo comió ella misma. A mí no me dio nada. La [sopa era de fideo](/blog/sopa-de-fideo/) y fue servida según lo que yo recordaba haber sido la costumbre de mi tía Leonor: cada comensal agregaba a su gusto trocitos de queso blanco y chiles guajillos fritos.
 
 ## 5. Pelea de gallos — María Fernanda Ampuero
 
@@ -110,7 +110,7 @@ Set on the Caribbean coast of Costa Rica, the novel brings together environmenta
 Anacristina Rossi is a central figure in contemporary Costa Rican literature, known for integrating ecological concerns with narrative fiction. Her work combines social engagement with relatively direct prose and a strong sense of place.
 
 **Quotes:**  
-> Además, no maté nunca a los cangrejos porque son como trabajadores municipales: procesan la basura. Es verdad que los cangrejos son grandes y atrevidos; entran a la casa y se llevan el pan, los cepillos de dientes o las cajas de fósforos. Por eso hay que dejar todo bien guardado. Son grandes como gatos, pero tampoco me decido a agarrarlos y hacerlos en sopa. Ese era tu plato favorito, Carlos: la sopa de cangrejo.
+> Además, no maté nunca a los cangrejos porque son como trabajadores municipales: procesan la basura. Es verdad que los cangrejos son grandes y atrevidos; entran a la casa y se llevan el pan, los cepillos de dientes o las cajas de fósforos. Por eso hay que dejar todo bien guardado. Son grandes como gatos, pero tampoco me decido a agarrarlos y hacerlos en sopa. Ese era tu plato favorito, Carlos: [la sopa de cangrejo](/blog/crab-soup/).
 
 ## 8. Ceniza en la boca — Brenda Navarro
 

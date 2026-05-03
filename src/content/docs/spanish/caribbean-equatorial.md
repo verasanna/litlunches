@@ -22,7 +22,7 @@ A fragmented, visceral portrait of Havana’s margins, where survival, desire, a
 Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty realism in Latin America. His work focuses on marginal urban existence, often using sparse syntax, heavy colloquial speech, and explicit material to construct an unidealized vision of Havana.
 
 **Quotes:**  
-> Lezama comía a menudo en una pizzería que está allí. Bella Nápoles. Ahora no tienen combustible para cocinar. Al frente de la pizzería, en un terreno baldío, improvisaron un fogón rústico de leña. Allí cocinan como pueden un poco de sopa de pescado y arroz. Miriam hacía la cola desde la madrugada y al mediodía compraba unas raciones. De eso vivíamos.
+> Lezama comía a menudo en una pizzería que está allí. Bella Nápoles. Ahora no tienen combustible para cocinar. Al frente de la pizzería, en un terreno baldío, improvisaron un fogón rústico de leña. Allí cocinan como pueden un poco de [sopa de pescado y arroz](/blog/fish-rice-soup/). Miriam hacía la cola desde la madrugada y al mediodía compraba unas raciones. De eso vivíamos.
 
 ## 2. El Rey de La Habana — Pedro Juan Gutiérrez
 
@@ -37,7 +37,7 @@ A darker, more continuous narrative following a young man drifting through pover
 Pedro Juan Gutiérrez is a Cuban novelist and journalist associated with dirty realism in Latin America. His work focuses on marginal Cuban life, often using sparse syntax, colloquial speech, and explicit material to construct an unidealized vision of Havana.
 
 **Quotes:**  
-> Cuando Rey salió del baño era otra cosa. Daisy preparó una comida decente: arroz, frijoles negros, carne guisada, plátano maduro frito, ensalada de aguacate, habichuelas y pina, agua fría, café.  
+> Cuando Rey salió del baño era otra cosa. Daisy preparó una comida decente: arroz, frijoles negros, carne guisada, plátano maduro frito, [ensalada de aguacate, habichuelas y piña](/blog/avocado-greenbean-pineapple-salad/), agua fría, café.  
 > —¿Quieres un tabaco y una copa de ron?  
 > —Sí.  
 > Por primera vez en su vida Rey se sintió persona. Jamás había comido de aquel modo, con aquella sazón, y además, sentado a una mesa. Siempre comía con el plato en la mano. Jamás había tenido a su lado a una mujer limpia, olorosa a perfumes y colonias, en una casa tan grande, con santos y flores, que lo mimara de aquel modo. Aquello era increíble. ¿Cómo le podía suceder?
@@ -70,7 +70,7 @@ A collection of interconnected stories centered on love, rupture, and displaceme
 Junot Díaz is a Dominican-American writer whose work blends English and Spanish in a hybrid literary register. His narratives frequently address migration, masculinity, and colonial legacies, using a voice that mixes colloquial intensity with intellectual self-awareness.
 
 **Quotes:**  
-> Alma es tan flaquita como una caña y tú eres un bloc adicto a los esteroides; a Alma le encanta manejar, a ti los libros; Alma tiene un Saturn, y tú no tienes ni una mancha en tu licencia de conducir; ella tiene las uñas demasiado sucias como para cocinar, y tu espagueti con pollo es el mejor del mundo.
+> Alma es tan flaquita como una caña y tú eres un bloc adicto a los esteroides; a Alma le encanta manejar, a ti los libros; Alma tiene un Saturn, y tú no tienes ni una mancha en tu licencia de conducir; ella tiene las uñas demasiado sucias como para cocinar, y tu [espagueti con pollo](/blog/chicken-spaghetti/) es el mejor del mundo.
 
 ## 5. ¿Qué mató al joven Abdoulaye Cissé? — Donato Ndongo-Bidyogo
 
@@ -84,7 +84,7 @@ A short narrative centered on the death of a young migrant and the chain of soci
 **Author:**  
 Donato Ndongo-Bidyogo is one of the most significant Equatoguinean writers in Spanish. His work often explores exile, identity, and postcolonial tension, situating African Spanish literature within broader Hispanic literary space while maintaining a distinct cultural perspective.
 
-## Ekomo — María Nsué Angüe
+## 6. Ekomo — María Nsué Angüe
 
 > **Goal:** establish foundational Equatorial Guinean novelistic voice with stable narrative structure  
 > **Formal readability:** ~70 (high)  
@@ -136,7 +136,7 @@ A collection of short fiction exploring gender, class, and social power through 
 Rosario Ferré was a Puerto Rican writer, essayist, and one of the most important voices in feminist Latin American literature. Her work often interrogates social hierarchy and identity through carefully constructed narrative forms, balancing intellectual precision with narrative clarity.
 
 **Quotes:**  
-> Se presentaba siempre con el cuello almidonado, los zapatos brillantes y el ostentoso alfiler de corbata oriental del que no tiene donde caerse muerto. Luego de examinar a la tía se sentaba en la sala recostando su silueta de papel dentro de un marco ovalado, a la vez que le entregaba a la menor el mismo ramo de siemprevivas moradas. Ella le ofrecía galletitas de jengibre y cogía el ramo quisquillosamente con la punta de los dedos como quien coge el estómago de un erizo vuelto al revés. Decidió casarse con él porque le intrigaba su perfil dormido, y porque ya tenía ganas de saber cómo era por dentro la carne de delfín.
+> Se presentaba siempre con el cuello almidonado, los zapatos brillantes y el ostentoso alfiler de corbata oriental del que no tiene donde caerse muerto. Luego de examinar a la tía se sentaba en la sala recostando su silueta de papel dentro de un marco ovalado, a la vez que le entregaba a la menor el mismo ramo de siemprevivas moradas. Ella le ofrecía [galletitas de jengibre](/blog/ginger-cookies/) y cogía el ramo quisquillosamente con la punta de los dedos como quien coge el estómago de un erizo vuelto al revés. Decidió casarse con él porque le intrigaba su perfil dormido, y porque ya tenía ganas de saber cómo era por dentro la carne de delfín.
 
 ## 10. “Los boys” — Junot Díaz
 
@@ -151,7 +151,7 @@ A short story focused on Dominican-American adolescents navigating friendship, m
 Junot Díaz is a Dominican-American writer whose work blends English and Spanish in a hybrid literary register. His narratives frequently address migration, masculinity, and colonial legacies, using a voice that mixes colloquial intensity with intellectual self-awareness.
 
 **Quotes:**  
-> Unas dos horas más tarde, las mujeres sacaron la cena y, como siempre, sólo los niños les dimos las gracias. Debía de ser una tradición dominicana o algo parecido. Hicieron todos los platos que a mí me gustaban —chicharrones, pollo frito, tostones, sancocho, arroz, queso frito, yuca, aguacate, ensalada de patata, un trozo de pernil del tamaño de un meteorito e incluso una ensalada mixta que no me habría importado perderme—, pero en cuanto me junté con el resto de los niños alrededor de la mesa papi dijo oh, no, tú no. Y me quitó de las manos el plato de papel con muy poca amabilidad.
+> Unas dos horas más tarde, las mujeres sacaron la cena y, como siempre, sólo los niños les dimos las gracias. Debía de ser una tradición dominicana o algo parecido. Hicieron todos los platos que a mí me gustaban —chicharrones, pollo frito, tostones, sancocho, arroz, [queso frito](/blog/queso-frito/), yuca, aguacate, ensalada de patata, un trozo de pernil del tamaño de un meteorito e incluso una ensalada mixta que no me habría importado perderme—, pero en cuanto me junté con el resto de los niños alrededor de la mesa papi dijo oh, no, tú no. Y me quitó de las manos el plato de papel con muy poca amabilidad.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Rustic Hare Stew"
 description: "A slow-simmered hare stew with red wine, herbs, and root vegetables."
 pubDate: 2026-04-18
-image: /blog-images/hare-stew.jpg
+image: ../../assets/blog-images/hare-stew.jpg
 type: recipe
 prepTime: PT20M
 cookTime: PT2H30M
