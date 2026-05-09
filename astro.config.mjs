@@ -17,6 +17,10 @@ export default defineConfig({
       label: 'Easy Spanish books',
       autogenerate: { directory: 'spanish' },
     },
+        {
+      label: 'Easy English books',
+      autogenerate: { directory: 'english' },
+    },
     {
       label: 'About',
       autogenerate: { directory: 'about' },

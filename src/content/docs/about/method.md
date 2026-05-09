@@ -84,3 +84,5 @@ A topic can match a learner’s interests, but if the writing style or structure
 - Read [about comprehensible input](https://www.sdkrashen.com/) on Stephen Krashen's website.
 
 - Check [comprehensible video](https://www.dreaming.com/spanish) on Dreaming Spanish website.
+
+- Learn [English with stories](https://www.youtube.com/@comprehendeng) on Input English YouTube channel.

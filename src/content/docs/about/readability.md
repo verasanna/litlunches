@@ -56,7 +56,32 @@ Several readability formulas are used for Spanish texts. They differ slightly in
 
 This website uses the **Szigriszt-Pazos Index** as its main reference, as it tends to give more reliable results for literary texts.
 
-### How to interpret Szigriszt scores
+---
+
+## Key English Readability Metrics
+
+Several readability formulas are commonly used for English texts. They mainly estimate difficulty based on sentence length and word complexity (often syllables or word length).
+
+- **Flesch Reading Ease**  
+  One of the oldest and most widely used metrics. Produces a score from 0–100, where higher values indicate easier text. Very common in general readability assessment.
+
+- **Flesch–Kincaid Grade Level**  
+  A school-grade equivalent of readability (e.g., “Grade 8”). Based on the same underlying variables as Flesch Reading Ease but expressed in US education levels.
+
+- **Gunning Fog Index**  
+  Estimates the years of formal education needed to understand a text on first reading. It tends to penalize long sentences and complex (“polysyllabic”) words more heavily.
+
+- **SMOG Index (Simple Measure of Gobbledygook)**  
+  Focuses on polysyllabic word count in a sample of sentences. Often used in healthcare and public information texts because of its conservative estimates.
+
+- **Coleman–Liau Index**  
+  Uses character counts instead of syllables, making it easier to compute algorithmically. Common in automated readability tools.
+
+This website primarily uses **Flesch Reading Ease** as a baseline reference, since it is widely supported, easy to interpret, and works well for general comparison across texts.
+
+---
+
+### How to interpret Szigriszt and Flesch Reading Ease scores
 
 - **75+** → generally easy to process  
 - **65–74** → moderate complexity  
