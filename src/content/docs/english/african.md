@@ -53,41 +53,7 @@ Chimamanda Ngozi Adichie is one of the most internationally recognized contempor
 
 ---
 
-## 3. Americanah — Chimamanda Ngozi Adichie
-
-> **Goal:** read longer contemporary fiction with natural dialogue  
-> **Formal readability:** 66.8 (medium-high)  
-> **Experienced difficulty:** low to medium  
-
-**Description:**  
-A large-scale novel following two Nigerian characters whose lives diverge between Nigeria, the United States, and the United Kingdom. The prose remains conversational and fluid despite the novel’s length, making it approachable for learners interested in modern spoken English, migration, race, and identity.
-
-**Author:**  
-Adichie’s writing combines literary realism with highly readable contemporary narration. Her work is widely used in international literature courses because of its accessibility and social relevance.
-
-**Quotes:**  
-> After class they would go to the café in the library and buy a sandwich with zhou from North Africa, or a curry from India, and on their way to another class, a student group would give them condoms and lollipops, and in the evening they would attend tea in a master’s house where a Latin American president or a Nobel laureate would answer their questions as though they mattered.
-
----
-
-## 4. Weep Not, Child — Ngũgĩ wa Thiong'o
-
-> **Goal:** read historical fiction with simple narrative structure  
-> **Formal readability:** 76.3 (very high)  
-> **Experienced difficulty:** very low  
-
-**Description:**  
-Set during the Mau Mau uprising in colonial Kenya, the novel follows a young boy whose hopes for education and social mobility collide with political violence. The language is remarkably direct and clear, making it one of the most accessible entry points into African historical fiction.
-
-**Author:**  
-Ngũgĩ wa Thiong'o is a Kenyan novelist, playwright, and theorist known for his anti-colonial writing and advocacy for African languages in literature. His early novels written in English remain widely read around the world.
-
-**Quotes:**  
-> Njoroge roused himself. His voice was weary. His eyes were dull. He dragged his feet to a corner and brought the dress the women wanted. He did not want to look at them in the face because he thought they would see the dreams of his boyhood and laugh at him. The Indian sat in his own corner munching some green beans or groundnuts. Njoroge was disgusted with the munching sound…O, I wish he could stop.
-
----
-
-## 5. Nervous Conditions — Tsitsi Dangarembga
+## 3. Nervous Conditions — Tsitsi Dangarembga
 
 > **Goal:** transition toward more psychologically layered fiction  
 > **Formal readability:** 63.7 (medium-high)  
@@ -104,24 +70,7 @@ Tsitsi Dangarembga is a Zimbabwean novelist and filmmaker whose work focuses on 
 
 ---
 
-## 6. Cry, the Beloved Country — Alan Paton
-
-> **Goal:** build reading fluency through lyrical but accessible prose  
-> **Formal readability:** 80.9 (very high)  
-> **Experienced difficulty:** very low  
-
-**Description:**  
-A South African novel following a rural pastor searching for his missing son in Johannesburg during the early apartheid era. The prose is simple and rhythmic, often using biblical cadences that create emotional intensity without increasing grammatical difficulty.
-
-**Author:**  
-Alan Paton was a South African novelist and anti-apartheid activist. His fiction focused on racial injustice, moral responsibility, and social reconciliation in twentieth-century South Africa.
-
-**Quotes:**  
-> Then the cart with the milk arrived, and the mothers of the small children, or some messenger that they had sent, went to the church for their portions.
-
----
-
-## 7. The Secret Lives of Baba Segi's Wives — Lola Shoneyin
+## 4. The Secret Lives of Baba Segi's Wives — Lola Shoneyin
 
 > **Goal:** improve comprehension through dialogue-heavy narration  
 > **Formal readability:** 73.1 (high)  
@@ -138,7 +87,7 @@ Lola Shoneyin is a Nigerian novelist, poet, and cultural organizer. Her fiction 
 
 ---
 
-## 8. The Fishermen — Chigozie Obioma
+## 5. The Fishermen — Chigozie Obioma
 
 > **Goal:** read literary prose with stronger metaphorical elements  
 > **Formal readability:** 64.9 (medium-high)  
@@ -155,7 +104,7 @@ Chigozie Obioma is a Nigerian novelist whose fiction combines mythic structure, 
 
 ---
 
-## 9. Stay With Me — Ayọ̀bámi Adébáyọ̀
+## 6. Stay With Me — Ayọ̀bámi Adébáyọ̀
 
 > **Goal:** read emotionally driven contemporary fiction  
 > **Formal readability:** 74.4 (high)  
@@ -172,7 +121,7 @@ Ayọ̀bámi Adébáyọ̀ is a Nigerian novelist associated with a newer genera
 
 ---
 
-## 10. My Sister, the Serial Killer — Oyinkan Braithwaite
+## 7. My Sister, the Serial Killer — Oyinkan Braithwaite
 
 > **Goal:** gain confidence reading fast contemporary prose  
 > **Formal readability:** high  
@@ -189,7 +138,7 @@ Oyinkan Braithwaite is a Nigerian novelist and screenwriter known for combining 
 
 ---
 
-## 11. We Need New Names — NoViolet Bulawayo
+## 8. We Need New Names — NoViolet Bulawayo
 
 > **Goal:** read voice-driven literary narration  
 > **Formal readability:** 75.1 (high)  
@@ -206,24 +155,7 @@ NoViolet Bulawayo is a Zimbabwean novelist whose work often explores migration, 
 
 ---
 
-## 12. So Long a Letter — Mariama Bâ
-
-> **Goal:** read concise literary fiction with cultural depth  
-> **Formal readability:** 59.7 (medium)  
-> **Experienced difficulty:** medium  
-
-**Description:**  
-An epistolary novel written as a long letter by a Senegalese widow reflecting on marriage, religion, friendship, and women’s roles in society. The structure is simple, but the social themes and reflective tone create slightly higher conceptual difficulty than the prose itself.
-
-**Author:**  
-Mariama Bâ was a Senegalese novelist associated with African feminist literature. Her work focused on women’s lives, education, and social transformation in postcolonial West Africa.
-
-**Quotes:**  
-> And we stuffed ourselves with fruits within easy reach. And we drank the milk from coconuts. And we told 'juicy stories'! And we danced about, roused by the strident notes of a gramophone. And the lamb, seasoned with white pepper, garlic, butter, hot pepper, would be roasting over the wood fire.
-
----
-
-## 13. Changes — Ama Ata Aidoo
+## 9. Changes — Ama Ata Aidoo
 
 > **Goal:** read modern literary fiction with conversational prose  
 > **Formal readability:** 65.3 (medium-high)  
@@ -240,7 +172,7 @@ Ama Ata Aidoo was a Ghanaian novelist, playwright, and poet known for her femini
 
 ---
 
-## 14. The Girl with the Louding Voice — Abi Daré
+## 10. The Girl with the Louding Voice — Abi Daré
 
 > **Goal:** adapt to nonstandard English varieties in fiction  
 > **Formal readability:** 86.0 (very high)  
@@ -257,7 +189,7 @@ Abi Daré is a Nigerian novelist whose fiction focuses on education, gender ineq
 
 ---
 
-## 15. Disgrace — J. M. Coetzee
+## 11. Disgrace — J. M. Coetzee
 
 > **Goal:** approach more austere literary prose  
 > **Formal readability:** 77.9 (very high)  
