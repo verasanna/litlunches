@@ -3,19 +3,7 @@ title: Easy African Literary Fiction
 description: Accessible African novels in English for learners, focused on readable literary prose, contemporary and classic African voices, and diverse English varieties across the continent
 ---
 
-African literature is often more accessible than many learners expect. Many African novels written in English use clear syntax, strong storytelling, and oral narrative rhythms that make them easier to follow than denser British or American literary fiction.
-
 This list focuses on novels originally written in English by African authors from different regions of the continent. The books were selected for their balance of readability, literary value, cultural importance, and engaging narration. Most use relatively direct prose while still exposing readers to distinct African English varieties, local expressions, and social realities.
-
-The selection combines classic works such as *Things Fall Apart* and *Cry, the Beloved Country* with contemporary fiction by writers like Chimamanda Ngozi Adichie, Ayọ̀bámi Adébáyọ̀, and Oyinkan Braithwaite. The result is a reading path that remains approachable while gradually introducing broader stylistic and cultural range.
-
-Compared to heavily experimental literary fiction, these novels are generally:
-
-- structurally clear
-- dialogue-driven
-- emotionally engaging
-- moderate in vocabulary difficulty
-- manageable for intermediate and advanced English learners
 
 The list includes works from West, East, and Southern Africa and represents several different literary traditions and registers of English.
 
