@@ -28,6 +28,24 @@ export default defineConfig({
   ],
   head: [
   {
+  tag: 'link',
+  attrs: {
+    rel: 'alternate',
+    type: 'application/rss+xml',
+    title: 'Litlunches — Book Lists & Guides',
+    href: '/docs-rss.xml',
+  },
+  },
+  {
+  tag: 'link',
+  attrs: {
+    rel: 'alternate',
+    type: 'application/rss+xml',
+    title: 'Litlunches Blog RSS Feed',
+    href: '/rss.xml',
+  },
+  },
+  {
     tag: 'meta',
     attrs: { name: 'theme-color', content: '#fbfbf9' },
   },
