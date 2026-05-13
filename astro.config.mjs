@@ -40,9 +40,9 @@ export default defineConfig({
   tag: 'link',
   attrs: {
     rel: 'alternate',
-    type: 'application/rss+xml',
-    title: 'Litlunches Blog RSS Feed',
-    href: '/rss.xml',
+    type: 'application/feed+json',
+    title: 'Book Lists JSON Feed',
+    href: '/feed.json',
   },
   },
   {
