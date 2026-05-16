@@ -3,22 +3,38 @@ import { site } from '../config/site';
 
 function getItemMeta(docId) {
   if (docId.startsWith('spanish/')) {
-    return { language: 'es', content_type: 'reading-list', access: 'paid' };
+    return { language: 'es', content_type: 'reading-list' };
   }
   if (docId.startsWith('english/')) {
-    return { language: 'en', content_type: 'reading-list', access: 'paid' };
+    return { language: 'en', content_type: 'reading-list' };
   }
-  return { language: 'en', content_type: 'guide', access: 'free' };
+  return { language: 'en', content_type: 'guide' };
 }
 
 function getTags(docId) {
   return ['guide', ...docId.split('/')];
 }
 
-// Split raw markdown into sections keyed by heading line index.
-// For each heading, content_text is everything up to the next heading,
-// stripped of markdown syntax and trimmed.
-function extractHasPart(body, baseUrl, itemAccess) {
+// For reading lists, numbered H2s like "1. Title", "2. Title" etc. are the book entries.
+// Sections 1–5 and "Further reading" are free; 6+ are paid.
+function getSectionAccess(docId, name) {
+  const isReadingList =
+    docId.startsWith('spanish/') || docId.startsWith('english/');
+
+  if (!isReadingList) return 'free';
+
+  if (/^further reading$/i.test(name.trim())) return 'free';
+
+  const match = name.match(/^(\d+)\./);
+  if (match) {
+    return parseInt(match[1], 10) <= 5 ? 'free' : 'paid';
+  }
+
+  // Non-numbered headings (intro paragraphs rendered as H2, etc.) are free
+  return 'free';
+}
+
+function extractHasPart(body, baseUrl, docId) {
   const lines = (body ?? '').split('\n');
   const headingIndices = lines.reduce((acc, line, i) => {
     if (/^#{1,6} /.test(line)) acc.push(i);
@@ -34,33 +50,34 @@ function extractHasPart(body, baseUrl, itemAccess) {
       .trim()
       .replace(/\s+/g, '-');
     const url = `${baseUrl}#${slug}`;
+    const access = getSectionAccess(docId, name);
 
     let content_text = null;
-    if (itemAccess === 'free') {
+    if (access === 'free') {
       const nextIndex = headingIndices[i + 1] ?? lines.length;
-      content_text = lines
-        .slice(lineIndex + 1, nextIndex)
-        // Strip markdown: blockquotes, bold/italic, links, images, inline code
-        .map((l) =>
-          l
-            .replace(/^>\s?/, '')
-            .replace(/!\[.*?\]\(.*?\)/g, '')
-            .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-            .replace(/[*_`]/g, '')
-            .trim()
-        )
-        .filter((l) => l.length > 0)
-        .join('\n')
-        .trim() || null;
+      content_text =
+        lines
+          .slice(lineIndex + 1, nextIndex)
+          .map((l) =>
+            l
+              .replace(/^>\s?/, '')
+              .replace(/!\[.*?\]\(.*?\)/g, '')
+              .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+              .replace(/[*_`]/g, '')
+              .trim()
+          )
+          .filter((l) => l.length > 0)
+          .join('\n')
+          .trim() || null;
     }
 
     return {
       position: i + 1,
       name,
       url,
-      access: itemAccess,
+      access,
       content_text,
-      token_price: itemAccess === 'paid' ? 0.001 : null,
+      token_price: access === 'paid' ? 0.001 : null,
     };
   });
 }
@@ -74,8 +91,11 @@ export async function GET(context) {
 
   const items = docs.map((doc) => {
     const url = new URL(`/${doc.id}/`, siteUrl).href;
-    const { language, content_type, access } = getItemMeta(doc.id);
-    const hasPart = extractHasPart(doc.body, url, access);
+    const { language, content_type } = getItemMeta(doc.id);
+    const isReadingList =
+      doc.id.startsWith('spanish/') || doc.id.startsWith('english/');
+    const itemAccess = isReadingList ? 'freemium' : 'free';
+    const hasPart = extractHasPart(doc.body, url, doc.id);
 
     return {
       id: url,
@@ -85,7 +105,7 @@ export async function GET(context) {
       date_published: new Date('2026-01-01').toISOString(),
       tags: getTags(doc.id),
       _ext: {
-        access,
+        access: itemAccess,
         language,
         content_type,
         hasPart,
