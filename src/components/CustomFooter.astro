@@ -1,6 +1,5 @@
 ---
 import type { Props } from '@astrojs/starlight/props';
-//import type { StarlightRouteData } from '@astrojs/starlight/route-data';
 import Pagination from '@astrojs/starlight/components/Pagination.astro';
 
 const year = new Date().getFullYear();
@@ -10,29 +9,36 @@ const year = new Date().getFullYear();
 <footer class="custom-footer">
   <div class="custom-footer__inner">
     <p class="custom-footer__copy">© {year} Litlunches</p>
+
     <nav class="custom-footer__nav" aria-label="Footer">
-      <a href="/blog/">Blog</a>
-      <a href="/about/">About</a>
-      <a href="/contact/">Contact</a>
-      <a href="/legal/">Legal</a>
-      <a href="/rss.xml" class="rss-link" aria-label="Blog RSS feed" title="Blog RSS feed">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-          <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
-        </svg>
-        Blog
-      </a>
-      <a href="/docs-rss.xml" class="rss-link" aria-label="Book lists RSS feed" title="Book lists RSS feed">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-          <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
-        </svg>
-        Books
-      </a>
-      <a href="/feed.json" class="rss-link" aria-label="Book lists JSON feed" title="Book lists JSON feed">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-          <path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m0 2v14h14V5H5m2 2h10v2H7V7m0 4h10v2H7v-2m0 4h7v2H7v-2z"/>
-        </svg>
-        JSON
-      </a>
+      <div class="custom-footer__row custom-footer__row--main">
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+        <a href="/legal/">Legal</a>
+      </div>
+
+      <div class="custom-footer__row custom-footer__row--feeds">
+        <span class="custom-footer__feeds-label">Feeds:</span>
+        <a href="/rss.xml" class="rss-link" aria-label="Blog RSS feed" title="Blog RSS feed">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
+          </svg>
+          Blog
+        </a>
+        <a href="/docs-rss.xml" class="rss-link" aria-label="Book lists RSS feed" title="Book lists RSS feed">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
+          </svg>
+          Books
+        </a>
+        <a href="/feed.json" class="rss-link" aria-label="Book lists JSON feed" title="Book lists JSON feed">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m0 2v14h14V5H5m2 2h10v2H7V7m0 4h10v2H7v-2m0 4h7v2H7v-2z"/>
+          </svg>
+          JSON
+        </a>
+      </div>
     </nav>
   </div>
 </footer>
@@ -48,7 +54,7 @@ const year = new Date().getFullYear();
     max-width: var(--sl-content-width);
     margin: 0 auto;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     gap: 1rem;
     flex-wrap: wrap;
@@ -58,12 +64,31 @@ const year = new Date().getFullYear();
   .custom-footer__copy {
     margin: 0;
     color: var(--sl-color-gray-3);
+    line-height: 1.75; /* align with first row of nav */
   }
 
   .custom-footer__nav {
     display: flex;
-    gap: 1.5rem;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-end;
+  }
+
+  .custom-footer__row {
+    display: flex;
+    gap: 1.25rem;
     align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .custom-footer__row--feeds {
+    gap: 1rem;
+    color: var(--sl-color-gray-3);
+  }
+
+  .custom-footer__feeds-label {
+    font-size: 0.8rem;
+    color: var(--sl-color-gray-4);
   }
 
   .custom-footer__nav a {
@@ -78,6 +103,18 @@ const year = new Date().getFullYear();
   .rss-link {
     display: inline-flex;
     align-items: center;
-    gap: 0.3rem;
+    gap: 0.25rem;
+    font-size: 0.8rem;
+  }
+
+  @media (max-width: 640px) {
+    .custom-footer__inner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .custom-footer__nav {
+      align-items: flex-start;
+    }
   }
 </style>
