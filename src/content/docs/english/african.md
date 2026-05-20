@@ -37,7 +37,7 @@ A coming-of-age novel narrated by a teenage girl growing up in a wealthy but dee
 Chimamanda Ngozi Adichie is one of the most internationally recognized contemporary African writers. Her fiction often focuses on gender, migration, family dynamics, and postcolonial identity while remaining stylistically accessible to general readers.
 
 **Quotes:**  
-> Lunch was fufu and onugbu soup. The fufu was smooth and fluffy. Sisi made it well; she pounded the yam energetically, adding drops of water into the mortar, her cheeks contracting with the thump-thump-thump of the pestle. The soup was thick with chunks of boiled beef and dried fish and dark green onugbu leaves. We ate silently.
+> Lunch was fufu and [onugbu soup](/blog/onugbu-soup/). The [fufu](/blog/fufu/) was smooth and fluffy. Sisi made it well; she pounded the yam energetically, adding drops of water into the mortar, her cheeks contracting with the thump-thump-thump of the pestle. The soup was thick with chunks of boiled beef and dried fish and dark green onugbu leaves. We ate silently.
 
 ---
 
@@ -139,7 +139,7 @@ A tragic family story narrated by a Nigerian boy whose relationship with his bro
 Chigozie Obioma is a Nigerian novelist whose fiction combines mythic structure, family drama, and social realism. His work is often compared to Achebe for its balance of accessibility and literary depth.
 
 **Quotes:**  
-> It was always this way. We would return home from church, have pepper soup and sponge cakes and soft drinks and just as in past years, Father would play a video of Ras Kimono for the New Year dance.
+> It was always this way. We would return home from church, have [pepper soup](/blog/nigerian-pepper-soup/) and sponge cakes and soft drinks and just as in past years, Father would play a video of Ras Kimono for the New Year dance.
 
 ---
 
@@ -156,7 +156,7 @@ A contemporary Nigerian novel about marriage, infertility, family pressure, and 
 Ayọ̀bámi Adébáyọ̀ is a Nigerian novelist associated with a newer generation of accessible literary fiction in English. Her writing focuses on intimate relationships shaped by broader social expectations.
 
 **Quotes:**  
-> There was a tray beside her. Laden with plates of fried yam, a bowl of fish stew and two cups of coffee. The woman who could spend weeks complaining if I had a sandwich in bed had brought a bowl of stew into the room. I should have realised then that something was wrong.
+> There was a tray beside her. Laden with plates of [fried yam](/blog/fried-yam/), a bowl of [fish stew](/blog/fish-stew/) and two cups of coffee. The woman who could spend weeks complaining if I had a sandwich in bed had brought a bowl of stew into the room. I should have realised then that something was wrong.
 
 ---
 
@@ -241,7 +241,7 @@ A novel following a Nigerian teenage girl determined to gain education and indep
 Abi Daré is a Nigerian novelist whose fiction focuses on education, gender inequality, and social mobility. Her debut novel became internationally popular for its accessible voice and strong emotional momentum.
 
 **Quotes:**  
-> I didn’t too sure of how Iya and Mama are knowing each other, or what is her real name because “Iya” is a Yoruba word for old woman. All I know is my mama was always sending me to give food to Iya and all the older womens who are sick in the village around Ikati: hot amala and okra soup with crayfish or beans and dodo, the plantain soft, oily.
+> I didn’t too sure of how Iya and Mama are knowing each other, or what is her real name because “Iya” is a Yoruba word for old woman. All I know is my mama was always sending me to give food to Iya and all the older womens who are sick in the village around Ikati: [hot amala](/blog/hot-amala/) and [okra soup](/blog/okra-soup/) with crayfish or beans and [dodo](/blog/dodo/), the plantain soft, oily.
 
 ---
 
@@ -258,7 +258,7 @@ A psychologically intense South African novel following a university professor w
 J. M. Coetzee is a South African novelist and Nobel Prize winner known for minimalist prose, moral ambiguity, and philosophical fiction. His work is among the most internationally influential bodies of African literature in English.
 
 **Quotes:**  
-> What he throws together for supper is indeed simple: anchovies on tagliatelle with a mushroom sauce. He lets her chop the mushrooms. Otherwise she sits on a stool, watching while he cooks. They eat in the dining-room, opening a second bottle of wine. She eats without inhibition. A healthy appetite, for someone so slight.
+> What he throws together for supper is indeed simple: anchovies on [tagliatelle with a mushroom sauce](/blog/anchovy-tagliatelle/). He lets her chop the mushrooms. Otherwise she sits on a stool, watching while he cooks. They eat in the dining-room, opening a second bottle of wine. She eats without inhibition. A healthy appetite, for someone so slight.
 > ‘Do you always cook for yourself?' she asks.
 > ‘I live alone. If I don't cook, no one will.'
 

@@ -60,5 +60,5 @@ Classic Mexican stuffed poblano peppers filled with cheese, coated in a light eg
 
 ## Notes
 
-This recipe is inspired by a [passage from Las batallas en el desierto by José Emilio Pacheco:](/spanish/mexico-ca/#1-las-batallas-en-el-desierto--jos%C3%A9-emilio-pacheco).
+This recipe is inspired by a [passage from Las batallas en el desierto by José Emilio Pacheco](/spanish/mexico-ca/#1-las-batallas-en-el-desierto--jos%C3%A9-emilio-pacheco).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

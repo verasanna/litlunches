@@ -62,5 +62,5 @@ A fresh and elegant Spanish-style starter featuring creamy avocados filled with 
 
 ## Notes
 
-This recipe is inspired by a [passage from El porqué de las cosas by Quim Monzó:](/spanish/spain/#4-el-porqu%C3%A9-de-las-cosas--quim-monz%C3%B3).
+This recipe is inspired by a [passage from El porqué de las cosas by Quim Monzó](/spanish/spain/#4-el-porqu%C3%A9-de-las-cosas--quim-monz%C3%B3).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

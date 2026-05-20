@@ -62,5 +62,5 @@ Soft and zesty lemon cookies with a bright citrus flavor and a light, tender cru
 
 ## Notes
 
-This recipe is inspired by a [passage from Entre visillos by Carmen Martín Gaite:](/spanish/spain/#2-entre-visillos--carmen-mart%C3%ADn-gaite).
+This recipe is inspired by a [passage from Entre visillos by Carmen Martín Gaite](/spanish/spain/#2-entre-visillos--carmen-mart%C3%ADn-gaite).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

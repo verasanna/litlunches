@@ -68,5 +68,5 @@ A flavorful Colombian-style rice with shrimp, cooked with a rich tomato and vege
 
 ## Notes
 
-This recipe is inspired by a [passage from La perra by Pilar Quintana:](/spanish/colombia-venezuela/#9-la-perra--pilar-quintana).
+This recipe is inspired by a [passage from La perra by Pilar Quintana](/spanish/colombia-venezuela/#9-la-perra--pilar-quintana).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

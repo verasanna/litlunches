@@ -66,5 +66,5 @@ A traditional Colombian-Venezuelan dish made with tender beef liver and sautéed
 
 ## Notes
 
-This recipe is inspired by a [passage from Crónica de una muerte anunciada by Gabriel García Márquez:](/spanish/colombia-venezuela/#8-cr%C3%B3nica-de-una-muerte-anunciada--gabriel-garc%C3%ADa-m%C3%A1rquez).
+This recipe is inspired by a [passage from Crónica de una muerte anunciada by Gabriel García Márquez](/spanish/colombia-venezuela/#8-cr%C3%B3nica-de-una-muerte-anunciada--gabriel-garc%C3%ADa-m%C3%A1rquez).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

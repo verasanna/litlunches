@@ -54,5 +54,5 @@ A classic Spanish tortilla made with tender potatoes, eggs, and onions, cooked s
 
 ## Notes
 
-This recipe is inspired by a [passage from Ser feliz era esto by Eduardo Sacheri:](/spanish/rioplatense-paraguay/#2-ser-feliz-era-esto--eduardo-sacheri).
+This recipe is inspired by a [passage from Ser feliz era esto by Eduardo Sacheri](/spanish/rioplatense-paraguay/#2-ser-feliz-era-esto--eduardo-sacheri).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

@@ -70,5 +70,5 @@ A comforting Caribbean-style fish soup with rice, aromatic vegetables, and herbs
 
 ## Notes
 
-This recipe is inspired by a [passage from Trilogía sucia de La Habana by Pedro Juan Gutiérrez:](/spanish/caribbean-equatorial/#1-trilog%C3%ADa-sucia-de-la-habana--pedro-juan-guti%C3%A9rrez).
+This recipe is inspired by a [passage from Trilogía sucia de La Habana by Pedro Juan Gutiérrez](/spanish/caribbean-equatorial/#1-trilog%C3%ADa-sucia-de-la-habana--pedro-juan-guti%C3%A9rrez).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

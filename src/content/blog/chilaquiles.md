@@ -62,5 +62,5 @@ A traditional Mexican breakfast dish made with crispy tortilla chips simmered in
 
 ## Notes
 
-This recipe is inspired by a [passage from Arráncame la vida by Ángeles Mastretta:](/spanish/mexico-ca/#2-arr%C3%A1ncame-la-vida--%C3%A1ngeles-mastretta).
+This recipe is inspired by a [passage from Arráncame la vida by Ángeles Mastretta](/spanish/mexico-ca/#2-arr%C3%A1ncame-la-vida--%C3%A1ngeles-mastretta).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

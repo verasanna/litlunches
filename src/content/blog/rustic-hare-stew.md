@@ -54,5 +54,5 @@ A slow-simmered hare stew with red wine, herbs, and root vegetables, deeply flav
 
 ## Notes
 
-This recipe is inspired by a [passage from Diario de un cazador by Miguel Delibes:](/spanish/spain/#1-diario-de-un-cazador--miguel-delibes).
+This recipe is inspired by a [passage from Diario de un cazador by Miguel Delibes](/spanish/spain/#1-diario-de-un-cazador--miguel-delibes).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

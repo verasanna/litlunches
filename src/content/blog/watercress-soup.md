@@ -64,5 +64,5 @@ A light and velvety watercress soup with potatoes, onion, and a touch of cream, 
 
 ## Notes
 
-This recipe is inspired by a [passage from Animales luminosos by Jeremías Gamboa:](/spanish/andean-chile/#11-animales-luminosos--jerem%C3%ADas-gamboa).
+This recipe is inspired by a [passage from Animales luminosos by Jeremías Gamboa](/spanish/andean-chile/#11-animales-luminosos--jerem%C3%ADas-gamboa).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

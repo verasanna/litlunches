@@ -76,5 +76,5 @@ A rich and flavorful Latin American crab soup made with fresh vegetables, herbs,
 
 ## Notes
 
-This recipe is inspired by a [passage from La loca de Gandoca by Anacristina Rossi:](/spanish/mexico-ca/#7-la-loca-de-gandoca--anacristina-rossi).
+This recipe is inspired by a [passage from La loca de Gandoca by Anacristina Rossi](/spanish/mexico-ca/#7-la-loca-de-gandoca--anacristina-rossi).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

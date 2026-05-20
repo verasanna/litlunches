@@ -54,6 +54,5 @@ A simple Caribbean-style fried cheese dish with a crisp golden crust and a soft,
 
 ## Notes
 
-This recipe is inspired by a [passage from “Los boys” by Junot Díaz
-:](/spanish/caribbean-equatorial/#10-los-boys--junot-díaz).
+This recipe is inspired by a [passage from “Los boys” by Junot Díaz](/spanish/caribbean-equatorial/#10-los-boys--junot-díaz).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

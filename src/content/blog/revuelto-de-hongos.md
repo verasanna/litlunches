@@ -66,5 +66,5 @@ A simple and flavorful Spanish-style scramble made with seasonal mushrooms, eggs
 
 ## Notes
 
-This recipe is inspired by a [passage from El mentiroso by Mikel Santiago:](/spanish/spain/#11-el-mentiroso--mikel-santiago).
+This recipe is inspired by a [passage from El mentiroso by Mikel Santiago](/spanish/spain/#11-el-mentiroso--mikel-santiago).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

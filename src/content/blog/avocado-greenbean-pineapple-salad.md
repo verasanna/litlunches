@@ -56,5 +56,5 @@ A fresh and vibrant salad combining creamy avocado, crisp green beans, and sweet
 
 ## Notes
 
-This recipe is inspired by a [passage from El Rey de La Habana by Pedro Juan Gutiérrez:](/spanish/caribbean-equatorial/#2-el-rey-de-la-habana--pedro-juan-guti%C3%A9rrez).
+This recipe is inspired by a [passage from El Rey de La Habana by Pedro Juan Gutiérrez](/spanish/caribbean-equatorial/#2-el-rey-de-la-habana--pedro-juan-guti%C3%A9rrez).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

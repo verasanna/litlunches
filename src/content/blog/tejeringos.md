@@ -58,5 +58,5 @@ Traditional Andalusian tejeringos—crispy, lightly salty fried dough spirals, t
 
 ## Notes
 
-This recipe is inspired by a [passage from La familia de Pascual Duarte by Camilo José Cela:](/spanish/spain/#9-la-familia-de-pascual-duarte--camilo-jos%C3%A9-cela).
+This recipe is inspired by a [passage from La familia de Pascual Duarte by Camilo José Cela](/spanish/spain/#9-la-familia-de-pascual-duarte--camilo-jos%C3%A9-cela).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

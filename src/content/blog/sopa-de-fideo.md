@@ -60,5 +60,5 @@ A comforting Mexican noodle soup made with toasted vermicelli simmered in a flav
 
 ## Notes
 
-This recipe is inspired by a [passage from Dos crímenes by Jorge Ibargüengoitia:](/spanish/mexico-ca/#4-dos-cr%C3%ADmenes--jorge-ibarg%C3%BCengoitia).
+This recipe is inspired by a [passage from Dos crímenes by Jorge Ibargüengoitia](/spanish/mexico-ca/#4-dos-cr%C3%ADmenes--jorge-ibarg%C3%BCengoitia).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

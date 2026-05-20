@@ -62,5 +62,5 @@ A simple and comforting pasta dish featuring tender tagliatelle coated in a rich
 
 ## Notes
 
-This recipe is inspired by a [passage from Formas de volver a casa by Alejandro Zambra:](/spanish/andean-chile/#4-formas-de-volver-a-casa--alejandro-zambra).
+This recipe is inspired by a [passage from Formas de volver a casa by Alejandro Zambra](/spanish/andean-chile/#4-formas-de-volver-a-casa--alejandro-zambra).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

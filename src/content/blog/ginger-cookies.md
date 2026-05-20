@@ -70,5 +70,5 @@ Spiced ginger cookies with a crisp edge and a soft, aromatic center, inspired by
 
 ## Notes
 
-This recipe is inspired by a [passage from Papeles de Pandora (selección) by Rosario Ferré:](/spanish/caribbean-equatorial/#9-papeles-de-pandora-selecci%C3%B3n--rosario-ferr%C3%A9).
+This recipe is inspired by a [passage from Papeles de Pandora (selección) by Rosario Ferré](/spanish/caribbean-equatorial/#9-papeles-de-pandora-selecci%C3%B3n--rosario-ferr%C3%A9).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

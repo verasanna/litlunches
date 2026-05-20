@@ -68,5 +68,5 @@ A classic Latin-style rotisserie chicken, marinated with garlic, citrus, and spi
 
 ## Notes
 
-This recipe is inspired by a [passage from El beso de la mujer araña by Manuel Puig:](/spanish/rioplatense-paraguay/#6-el-beso-de-la-mujer-ara%C3%B1a--manuel-puig).
+This recipe is inspired by a [passage from El beso de la mujer araña by Manuel Puig](/spanish/rioplatense-paraguay/#6-el-beso-de-la-mujer-ara%C3%B1a--manuel-puig).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

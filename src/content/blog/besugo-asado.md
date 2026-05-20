@@ -64,5 +64,5 @@ A classic Spanish oven-roasted sea bream with garlic, potatoes, and a light whit
 
 ## Notes
 
-This recipe is inspired by a [passage from Historias de la Artámila by Ana María Matute:](/spanish/spain/#3-historias-de-la-art%C3%A1mila--ana-mar%C3%ADa-matute).
+This recipe is inspired by a [passage from Historias de la Artámila by Ana María Matute](/spanish/spain/#3-historias-de-la-art%C3%A1mila--ana-mar%C3%ADa-matute).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

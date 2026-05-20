@@ -70,5 +70,5 @@ A flavorful chicken spaghetti dish with Caribbean spices, vegetables, and a ligh
 
 ## Notes
 
-This recipe is inspired by a [passage from Así es como la pierdes by Junot Díaz:](/spanish/caribbean-equatorial/#4-as%C3%AD-es-como-la-pierdes--junot-d%C3%ADaz).
+This recipe is inspired by a [passage from Así es como la pierdes by Junot Díaz](/spanish/caribbean-equatorial/#4-as%C3%AD-es-como-la-pierdes--junot-d%C3%ADaz).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

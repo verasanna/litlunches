@@ -50,5 +50,5 @@ A classic Latin American dish made with ripe or green plantains, fried until gol
 
 ## Notes
 
-This recipe is inspired by a [passage from El Tercer País by Karina Sainz Borgo:](/spanish/colombia-venezuela/#2-el-tercer-pa%C3%ADs--karina-sainz-borgo).
+This recipe is inspired by a [passage from El Tercer País by Karina Sainz Borgo](/spanish/colombia-venezuela/#2-el-tercer-pa%C3%ADs--karina-sainz-borgo).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

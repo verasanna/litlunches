@@ -70,5 +70,5 @@ A rich and comforting Spanish-style onion soup with caramelized onions, broth, a
 
 ## Notes
 
-This recipe is inspired by a [passage from Nunca preguntes su nombre a un pájaro by Andrés Ibáñez:](/spanish/spain/#7-nunca-preguntes-su-nombre-a-un-p%C3%A1jaro--andr%C3%A9s-ib%C3%A1%C3%B1ez).
+This recipe is inspired by a [passage from Nunca preguntes su nombre a un pájaro by Andrés Ibáñez](/spanish/spain/#7-nunca-preguntes-su-nombre-a-un-p%C3%A1jaro--andr%C3%A9s-ib%C3%A1%C3%B1ez).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.

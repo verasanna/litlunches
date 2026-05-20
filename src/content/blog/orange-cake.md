@@ -66,5 +66,5 @@ A soft and aromatic orange cake popular in Colombia and Venezuela, made with fre
 
 ## Notes
 
-This recipe is inspired by a [passage from Los abismos by Pilar Quintana:](/spanish/colombia-venezuela/#1-los-abismos--pilar-quintana).
+This recipe is inspired by a [passage from Los abismos by Pilar Quintana](/spanish/colombia-venezuela/#1-los-abismos--pilar-quintana).
 It is AI-generated and shared for entertainment, culinary inspiration, and reading enjoyment. Please use your own judgment and experience when preparing it.
