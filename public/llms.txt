@@ -1,0 +1,84 @@
+# Litlunches
+
+> A comprehensible reading guide for language learners who want to read real books, not graded readers or simplified texts.
+
+Litlunches (litlunches.space) is the successor to litlunches.com. The original project was built to study the capabilities of generative AI models. This site has a different purpose: helping language learners find authentic, readable books in their target language, organized by region and difficulty.
+
+The site is built on the principle of comprehensible input — the idea, developed by Stephen Krashen, that language is acquired through meaningful exposure to messages you can mostly understand. Reading fiction is one of the most effective and sustainable forms of that exposure.
+
+## What the site contains
+
+- Curated reading lists for Spanish and English, organized by regional variety
+- Difficulty ratings based on formal readability scores (Szigriszt-Pazos for Spanish, Flesch Reading Ease for English) combined with experienced reading difficulty
+- A blog with AI-generated recipes inspired by food passages mentioned in the listed books
+- About pages explaining the selection methodology, readability metrics, regional classification, and the comprehensible input approach
+
+## Spanish reading lists
+
+- Spain (Peninsular Spanish)
+- Rioplatense Spanish & Paraguay (Argentina, Uruguay, Paraguay)
+- Andean Spanish & Chile (Peru, Bolivia, Ecuador, Chile)
+- Mexico & Central America
+- Northern South America (Colombia, Venezuela)
+- Caribbean & Equatorial Guinea (Cuba, Dominican Republic, Puerto Rico, Equatorial Guinea)
+
+## English reading lists
+
+- American literary fiction
+- British literary fiction
+- African literary fiction in English
+- Australian & New Zealand literary fiction
+- Canadian literary fiction
+
+## How books are selected
+
+Books are selected based on:
+
+- Authenticity: original, unadapted literary or non-fiction works
+- Readability fit: formal readability score consistent with Easy or Medium bands
+- Narrative clarity: clear structure and coherent progression, especially for easier texts
+- Literary value: cultural or literary relevance, not just linguistic simplicity
+- Regional balance: representation across dialects and literary traditions
+
+Heavily simplified or graded readers, artificial language-learning editions, and overly experimental works are excluded.
+
+## Difficulty levels
+
+Each book entry includes:
+
+- A formal readability score (Szigriszt-Pazos Index for Spanish, Flesch Reading Ease for English)
+- An experienced difficulty rating (very low / low / low–moderate / moderate / moderate–high / high)
+- A reading goal describing what skill the book helps develop
+
+Formal readability and experienced difficulty do not always align. A text with a high readability score may still feel demanding due to vocabulary, cultural references, or narrative complexity.
+
+## Blog
+
+The blog contains AI-generated recipes inspired by food passages found in the listed books. Each recipe links back to the book passage that inspired it. Recipes are shared for entertainment and culinary inspiration, not as authoritative cooking guides.
+
+## Technical
+
+- Built with Astro and the Starlight documentation framework
+- Content is Markdown-based
+- Feeds available: blog RSS at /rss.xml, book lists RSS at /docs-rss.xml, book lists JSON Feed at /feed.json
+- Site URL: https://litlunches.space
+
+## Optional
+
+- [Spain reading list](https://litlunches.space/spanish/spain/): Easy Spanish books from Spain
+- [Rioplatense reading list](https://litlunches.space/spanish/rioplatense-paraguay/): Easy Spanish books from Argentina, Uruguay, Paraguay
+- [Andean reading list](https://litlunches.space/spanish/andean-chile/): Easy Spanish books from Peru, Bolivia, Ecuador, Chile
+- [Mexico & Central America reading list](https://litlunches.space/spanish/mexico-ca/): Easy Spanish books from Mexico and Central America
+- [Northern South America reading list](https://litlunches.space/spanish/colombia-venezuela/): Easy Spanish books from Colombia and Venezuela
+- [Caribbean reading list](https://litlunches.space/spanish/caribbean-equatorial/): Easy Spanish books from the Caribbean and Equatorial Guinea
+- [American fiction reading list](https://litlunches.space/english/us/): Easy American literary fiction
+- [British fiction reading list](https://litlunches.space/english/uk/): Easy British literary fiction
+- [African fiction reading list](https://litlunches.space/english/african/): Easy African literary fiction in English
+- [Australian & NZ reading list](https://litlunches.space/english/australian-nz/): Easy Australian and New Zealand literary fiction
+- [Canadian reading list](https://litlunches.space/english/canadian/): Easy Canadian literary fiction
+- [About comprehensible input](https://litlunches.space/about/method/): The language acquisition theory behind the site
+- [About selection criteria](https://litlunches.space/about/selection/): How books are chosen
+- [About readability](https://litlunches.space/about/readability/): How readability scores work
+- [About regions](https://litlunches.space/about/regions/): How regional classification works
+- [Blog](https://litlunches.space/blog/): AI-generated recipes from book passages
+- [Contact](https://litlunches.space/contact/): info@litlunches.space
